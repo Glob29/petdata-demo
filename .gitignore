@@ -14,3 +14,5 @@ db/*.db-shm
 node_modules/
 .env
 .DS_Store
+
+tools/
