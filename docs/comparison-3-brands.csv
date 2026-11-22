@@ -1,0 +1,4 @@
+brand;product;pack_kg;price_min_rub;price_max_rub;price_per_kg_min;price_per_kg_max;protein_pct;fat_pct;fiber_pct;ash_pct;me_kcal_kg;protein_g_1000kcal;price_100g_protein_min;price_100g_protein_max;price_100kcal_min;price_100kcal_max;quality_score;notes
+Royal Canin;Indoor 27;2;2911;3744;1455.5;1872;27;13;4;7.3;3815;70.8;539.07;693.33;38.15;49.07;2.5;Растительные белки в составе, доля животного белка не указана
+Grandorf;Turkey Sterilised;2;3381;4095;1690.5;2047.5;37;11;2.5;8;4060;91.1;456.89;553.38;41.64;50.43;4.5;32% дегидрированной индейки + 29% свежей + 5% гидролизата
+Purina Pro Plan;Sterilised Turkey;1.5;2238;2238;1492;1492;41;12;4;7.5;;;363.9;363.9;;;3.5;ME не заявлена, 20% индейки, растительные белки

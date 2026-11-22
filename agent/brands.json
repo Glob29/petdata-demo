@@ -1,0 +1,218 @@
+{
+  "market": "RU",
+  "brands": [
+    {
+      "brand": "Whiskas",
+      "manufacturer": "Mars",
+      "site": "https://whiskas.ru",
+      "source_name": "Whiskas RU",
+      "priority": 1,
+      "certificate_pages": ["https://whiskas.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://whiskas.ru/products/adult",
+          "https://whiskas.ru/products/kitten",
+          "https://whiskas.ru/products/sterilized"
+        ],
+        "pattern": "/products/",
+        "min_segments": 3
+      },
+      "max_products": 20
+    },
+    {
+      "brand": "Grandorf",
+      "manufacturer": "Absolute Petfood",
+      "site": "https://grandorf.ru",
+      "source_name": "Grandorf RU",
+      "priority": 2,
+      "certificate_pages": ["https://grandorf.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://grandorf.ru/fresh/catalog/cat_foods/",
+          "https://grandorf.ru/fresh/catalog/dog_foods/"
+        ],
+        "pattern": "/fresh/catalog/",
+        "min_segments": 4
+      },
+      "max_products": 20
+    },
+    {
+      "brand": "Hill's",
+      "manufacturer": "Hill's Pet Nutrition",
+      "site": "https://www.hillspet.ru",
+      "source_name": "Hill's RU",
+      "priority": 3,
+      "certificate_pages": ["https://www.hillspet.ru/about-us/quality-and-safety"],
+      "discovery": {
+        "type": "sitemap",
+        "url": "https://www.hillspet.ru/sitemap.xml",
+        "pattern": "/cat-food/",
+        "min_segments": 2
+      },
+      "max_products": 40
+    },
+    {
+      "brand": "Hill's",
+      "manufacturer": "Hill's Pet Nutrition",
+      "site": "https://www.hillspet.ru",
+      "source_name": "Hill's RU",
+      "priority": 3,
+      "certificate_pages": ["https://www.hillspet.ru/about-us/quality-and-safety"],
+      "discovery": {
+        "type": "sitemap",
+        "url": "https://www.hillspet.ru/sitemap.xml",
+        "pattern": "/dog-food/",
+        "min_segments": 2
+      },
+      "max_products": 20
+    },
+    {
+      "brand": "Purina Pro Plan",
+      "manufacturer": "Nestlé Purina",
+      "site": "https://purina.ru",
+      "source_name": "Purina RU",
+      "priority": 4,
+      "certificate_pages": ["https://purina.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://purina.ru/brands/proplan_cats",
+          "https://purina.ru/brands/proplan_dogs"
+        ],
+        "pattern": "/(cats|dogs)/korm-dlya-(koshek|sobak)/",
+        "include": "pro-plan",
+        "min_segments": 3
+      },
+      "max_products": 10
+    },
+    {
+      "brand": "Felix",
+      "manufacturer": "Nestlé Purina",
+      "site": "https://purina.ru",
+      "source_name": "Purina RU",
+      "priority": 5,
+      "certificate_pages": ["https://purina.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://purina.ru/brands/felix_cats"
+        ],
+        "pattern": "/(cats|dogs)/korm-dlya-(koshek|sobak)/",
+        "include": "felix",
+        "min_segments": 3
+      },
+      "max_products": 8
+    },
+    {
+      "brand": "Purina One",
+      "manufacturer": "Nestlé Purina",
+      "site": "https://purina.ru",
+      "source_name": "Purina RU",
+      "priority": 6,
+      "certificate_pages": ["https://purina.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://purina.ru/brands/purinaone_cats",
+          "https://purina.ru/brands/purinaone_dogs"
+        ],
+        "pattern": "/(cats|dogs)/korm-dlya-(koshek|sobak)/",
+        "include": "purina-one",
+        "min_segments": 3
+      },
+      "max_products": 20
+    },
+    {
+      "brand": "Monge",
+      "manufacturer": "Monge & C.",
+      "site": "https://www.monge.ru",
+      "source_name": "Monge RU",
+      "priority": 7,
+      "certificate_pages": ["https://www.monge.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://www.monge.ru/catalog/korma-dlya-koshek",
+          "https://www.monge.ru/catalog/korma-dlya-sobak"
+        ],
+        "pattern": "/product/",
+        "min_segments": 2
+      },
+      "max_products": 10
+    },
+    {
+      "brand": "Мнямс",
+      "manufacturer": "Мнямс",
+      "site": "https://mnyams.ru",
+      "source_name": "Mnyams RU",
+      "priority": 8,
+      "certificate_pages": ["https://mnyams.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://mnyams.ru/catalog/korma-dlya-koshek",
+          "https://mnyams.ru/catalog/korma-dlya-sobak"
+        ],
+        "pattern": "/product/",
+        "min_segments": 2
+      },
+      "max_products": 10
+    },
+    {
+      "brand": "Perfect Fit",
+      "manufacturer": "Mars",
+      "site": "https://www.perfectfit.ru",
+      "source_name": "Perfect Fit RU",
+      "priority": 9,
+      "certificate_pages": ["https://www.perfectfit.ru/"],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://www.perfectfit.ru/",
+          "https://www.perfectfit.ru/food-cat/",
+          "https://www.perfectfit.ru/food-dog/"
+        ],
+        "pattern": "/product-detail/",
+        "min_segments": 2
+      },
+      "max_products": 10
+    },
+    {
+      "brand": "4lapy",
+      "manufacturer": "Retail",
+      "site": "https://4lapy.ru",
+      "source_name": "4lapy RU",
+      "priority": 10,
+      "parser": "4lapy",
+      "certificate_pages": [],
+      "discovery": {
+        "type": "links",
+        "urls": [
+          "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/?page=2",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/sukhoy/?page=3",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/?page=2",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/konservy/?page=3",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/dieticheskiy/",
+          "https://4lapy.ru/catalog/koshki/korm-koshki/kholistik/",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/?page=2",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/sukhoy-korm-sobaki/?page=3",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/konservy-korm-sobaki/",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/konservy-korm-sobaki/?page=2",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/konservy-korm-sobaki/?page=3",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/dieticheskiy-korm-sobaki/",
+          "https://4lapy.ru/catalog/sobaki/korm-sobaki/holistik/"
+        ],
+        "pattern": "/product/",
+        "min_segments": 2
+      },
+      "max_products": 400
+    }
+  ]
+}
+
+

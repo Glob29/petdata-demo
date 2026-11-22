@@ -1,0 +1,16 @@
+# Кэш скачанных страниц и бэкапы БД — не для git
+agent/cache/
+backup/
+
+# Отчёт генерируется скриптом: node agent/export-html.js
+report/
+
+# Служебные файлы SQLite
+db/*.db-wal
+db/*.db-shm
+
+# Логи и локальное окружение
+*.log
+node_modules/
+.env
+.DS_Store

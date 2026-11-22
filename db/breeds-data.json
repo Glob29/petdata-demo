@@ -1,0 +1,1952 @@
+{
+  "note": "Курируемые данные по породам. Источник физических параметров: инфобокс ru.wikipedia (значения стандартов FCI) либо экспертная оценка. SQL генерируется скриптом db/gen-breeds-sql.js.",
+  "generated_at": "2026-11-22",
+  "sources": [
+    {
+      "id": 18,
+      "kind": "encyclopedia",
+      "name": "Wikipedia RU: карточки пород (инфобокс, параметры стандартов FCI)",
+      "url": "https://ru.wikipedia.org/wiki/Порода_кошек",
+      "license": "CC BY-SA 4.0",
+      "reliability": 3,
+      "notes": "Сводные параметры (рост, вес, продолжительность жизни). Для собак совпадают с номером стандарта FCI; часть полей без указания первичного источника."
+    },
+    {
+      "id": 19,
+      "kind": "estimate",
+      "name": "PetData: экспертная оценка (не верифицирована)",
+      "url": null,
+      "license": null,
+      "reliability": 2,
+      "notes": "Заполнено вручную там, где открытого структурированного источника нет. Требует сверки с первичным стандартом или исследованием до коммерческого использования."
+    }
+  ],
+  "conditions": [
+    {
+      "id": 14,
+      "code": "patellar_luxation",
+      "name_ru": "Вывих коленной чашечки",
+      "name_en": "Patellar luxation",
+      "category": "orthopedic"
+    },
+    {
+      "id": 15,
+      "code": "tracheal_collapse",
+      "name_ru": "Коллапс трахеи",
+      "name_en": "Tracheal collapse",
+      "category": "respiratory"
+    },
+    {
+      "id": 16,
+      "code": "ckd",
+      "name_ru": "Хроническая болезнь почек",
+      "name_en": "Chronic kidney disease",
+      "category": "renal"
+    },
+    {
+      "id": 17,
+      "code": "flutd",
+      "name_ru": "Болезни нижних мочевых путей",
+      "name_en": "FLUTD",
+      "category": "urinary"
+    },
+    {
+      "id": 18,
+      "code": "atopic_dermatitis",
+      "name_ru": "Атопический дерматит",
+      "name_en": "Atopic dermatitis",
+      "category": "skin"
+    },
+    {
+      "id": 19,
+      "code": "hypothyroidism",
+      "name_ru": "Гипотиреоз",
+      "name_en": "Hypothyroidism",
+      "category": "endocrine"
+    },
+    {
+      "id": 20,
+      "code": "epilepsy",
+      "name_ru": "Идиопатическая эпилепсия",
+      "name_en": "Idiopathic epilepsy",
+      "category": "neurologic"
+    },
+    {
+      "id": 21,
+      "code": "pra",
+      "name_ru": "Прогрессирующая атрофия сетчатки",
+      "name_en": "Progressive retinal atrophy",
+      "category": "ophthalmic"
+    },
+    {
+      "id": 22,
+      "code": "cataracts",
+      "name_ru": "Катаракта",
+      "name_en": "Cataracts",
+      "category": "ophthalmic"
+    },
+    {
+      "id": 23,
+      "code": "entropion",
+      "name_ru": "Заворот века",
+      "name_en": "Entropion",
+      "category": "ophthalmic"
+    },
+    {
+      "id": 24,
+      "code": "ccl_rupture",
+      "name_ru": "Разрыв передней крестообразной связки",
+      "name_en": "Cranial cruciate ligament rupture",
+      "category": "orthopedic"
+    },
+    {
+      "id": 25,
+      "code": "vwd",
+      "name_ru": "Болезнь Виллебранда",
+      "name_en": "von Willebrand disease",
+      "category": "hematologic"
+    },
+    {
+      "id": 26,
+      "code": "dcm",
+      "name_ru": "Дилатационная кардиомиопатия",
+      "name_en": "Dilated cardiomyopathy",
+      "category": "cardiac"
+    },
+    {
+      "id": 27,
+      "code": "arvc",
+      "name_ru": "Аритмогенная кардиомиопатия правого желудочка",
+      "name_en": "Arrhythmogenic right ventricular cardiomyopathy",
+      "category": "cardiac"
+    },
+    {
+      "id": 28,
+      "code": "portosystemic_shunt",
+      "name_ru": "Портокавальный шунт",
+      "name_en": "Portosystemic shunt",
+      "category": "hepatic"
+    },
+    {
+      "id": 29,
+      "code": "hydrocephalus",
+      "name_ru": "Гидроцефалия",
+      "name_en": "Hydrocephalus",
+      "category": "neurologic"
+    },
+    {
+      "id": 30,
+      "code": "hemivertebra",
+      "name_ru": "Гемивертебра",
+      "name_en": "Hemivertebra",
+      "category": "neurologic"
+    },
+    {
+      "id": 31,
+      "code": "osteochondrodysplasia",
+      "name_ru": "Остеохондродисплазия",
+      "name_en": "Osteochondrodysplasia",
+      "category": "skeletal"
+    },
+    {
+      "id": 32,
+      "code": "dental_disease",
+      "name_ru": "Заболевания зубов и пародонта",
+      "name_en": "Periodontal disease",
+      "category": "dental"
+    },
+    {
+      "id": 33,
+      "code": "lens_luxation",
+      "name_ru": "Вывих хрусталика",
+      "name_en": "Lens luxation",
+      "category": "ophthalmic"
+    },
+    {
+      "id": 34,
+      "code": "feline_asthma",
+      "name_ru": "Бронхиальная астма кошек",
+      "name_en": "Feline asthma",
+      "category": "respiratory"
+    }
+  ],
+  "breeds": [
+    {
+      "id": 7,
+      "species": "dog",
+      "name_ru": "Йоркширский терьер",
+      "name_en": "Yorkshire Terrier",
+      "fci_group": "III",
+      "origin_country": "Великобритания",
+      "size_class": "mini",
+      "height_min_cm": 18,
+      "height_max_cm": 20,
+      "weight_min_kg": 1.8,
+      "weight_max_kg": 3.2,
+      "lifespan_min_years": 13,
+      "lifespan_max_years": 16,
+      "coat_type": "Длинная, шелковистая, без подшёрстка",
+      "coat_length": "long",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "low",
+      "temperament": "Активный, смелый, сильно привязан к хозяину",
+      "source_id": 18,
+      "data_quality": "mixed",
+      "extra": {
+        "fci_number": 86,
+        "wiki": "https://ru.wikipedia.org/?curid=278834",
+        "note": "Продолжительность жизни 13–16 лет: нижняя оценка по ветеринарным источникам, в карточке ru.wiki — 16–18"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 1.8,
+          "max_kg": 3.2
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Мелкие породы, скученность зубов"
+        },
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "tracheal_collapse",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Мелкие породы, избыточный вес усиливает"
+        },
+        {
+          "condition": "pra",
+          "prevalence_text": "Риск при мутации PRCD",
+          "evidence_level": "C",
+          "age_of_onset": "Старше 3 лет",
+          "source_id": 8,
+          "notes": "Аутосомно-рецессивный"
+        },
+        {
+          "condition": "portosystemic_shunt",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Молодые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "PRCD",
+          "mutation": "c.5G>A",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "species": "dog",
+      "name_ru": "Чихуахуа",
+      "name_en": "Chihuahua",
+      "fci_group": "IX",
+      "origin_country": "Мексика",
+      "size_class": "mini",
+      "height_min_cm": 15,
+      "height_max_cm": 23,
+      "weight_min_kg": 1,
+      "weight_max_kg": 3,
+      "lifespan_min_years": 14,
+      "lifespan_max_years": 16,
+      "coat_type": "Короткая или длинная, с подшёрстком",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "low",
+      "temperament": "Смелый, энергичный, ревнивый к хозяину",
+      "source_id": 18,
+      "data_quality": "estimate",
+      "extra": {
+        "fci_number": 218,
+        "wiki": "https://ru.wikipedia.org/?curid=1122277",
+        "note": "Стандарт FCI не задаёт рост; 15–23 см — экспертная оценка"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 1.5,
+          "max_kg": 3
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 1,
+          "max_kg": 2.5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Мелкие породы"
+        },
+        {
+          "condition": "hydrocephalus",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Щенки",
+          "source_id": 9,
+          "notes": "Открытый родничок"
+        },
+        {
+          "condition": "tracheal_collapse",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 9,
+      "species": "dog",
+      "name_ru": "Такса",
+      "name_en": "Dachshund",
+      "fci_group": "IV",
+      "origin_country": "Германия",
+      "size_class": "small",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 7,
+      "weight_max_kg": 9,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 16,
+      "coat_type": "Гладкая, длинная или жёсткая",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Смелый, любопытный, упрямый",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 148,
+        "wiki": "https://ru.wikipedia.org/?curid=244834",
+        "note": "Стандарт не задаёт рост; вес дан для стандартной разновидности"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 7,
+          "max_kg": 9
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "ivdd",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "3–7 лет",
+          "source_id": 8,
+          "notes": "Ассоциация с ретрогеном FGF4 (CDPA); хондродистрофия"
+        },
+        {
+          "condition": "obesity",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": "Избыточный вес повышает нагрузку на спину"
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "FGF4 (CDPA)",
+          "mutation": "Инсерция ретрогена, chr12",
+          "inheritance": "Неполное доминирование",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "species": "dog",
+      "name_ru": "Ши-тцу",
+      "name_en": "Shih Tzu",
+      "fci_group": "IX",
+      "origin_country": "Тибет",
+      "size_class": "mini",
+      "height_min_cm": null,
+      "height_max_cm": 27,
+      "weight_min_kg": 4.5,
+      "weight_max_kg": 8,
+      "lifespan_min_years": 10,
+      "lifespan_max_years": 16,
+      "coat_type": "Длинная, густая, с подшёрстком",
+      "coat_length": "long",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "low",
+      "temperament": "Ласковый, уверенный, независимый",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 208,
+        "wiki": "https://ru.wikipedia.org/?curid=965986",
+        "note": "Рост: до 27 см по стандарту"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 4.5,
+          "max_kg": 8
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Короткая морда, скученность зубов"
+        },
+        {
+          "condition": "ckd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Описана семейная почечная дисплазия"
+        },
+        {
+          "condition": "entropion",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Молодые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "portosystemic_shunt",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Щенки",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 11,
+      "species": "dog",
+      "name_ru": "Мопс",
+      "name_en": "Pug",
+      "fci_group": "IX",
+      "origin_country": "Китай",
+      "size_class": "small",
+      "height_min_cm": 28,
+      "height_max_cm": 32,
+      "weight_min_kg": 6.3,
+      "weight_max_kg": 8.1,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Короткая, гладкая",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 1,
+      "exercise_level": "low",
+      "temperament": "Общительный, упрямый, ориентирован на человека",
+      "source_id": 18,
+      "data_quality": "mixed",
+      "extra": {
+        "fci_number": 253,
+        "wiki": "https://ru.wikipedia.org/?curid=313854",
+        "note": "Стандарт FCI не ограничивает рост; 28–32 см — типичный диапазон"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 6.3,
+          "max_kg": 8.1
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "boas",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "С раннего возраста",
+          "source_id": 7,
+          "notes": "Брахицефалия"
+        },
+        {
+          "condition": "skin_fold_dermatitis",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Любой",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "obesity",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "hemivertebra",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Молодые",
+          "source_id": 9,
+          "notes": "Короткая морда и «закрученный» хвост — маркеры"
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 12,
+      "species": "dog",
+      "name_ru": "Померанский шпиц",
+      "name_en": "Pomeranian",
+      "fci_group": "V",
+      "origin_country": "Германия",
+      "size_class": "mini",
+      "height_min_cm": 18,
+      "height_max_cm": 22,
+      "weight_min_kg": 1.8,
+      "weight_max_kg": 3.5,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 16,
+      "coat_type": "Длинная, густая, с плотным подшёрстком",
+      "coat_length": "long",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "low",
+      "temperament": "Живой, любопытный, громкий",
+      "source_id": 18,
+      "data_quality": "estimate",
+      "extra": {
+        "fci_number": 97,
+        "wiki": "https://ru.wikipedia.org/?curid=2762726",
+        "note": "Померанский — разновидность немецкого шпица (FCI № 97); вес — экспертная оценка"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 1.8,
+          "max_kg": 3.5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "tracheal_collapse",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 13,
+      "species": "dog",
+      "name_ru": "Мальтийская болонка",
+      "name_en": "Maltese",
+      "fci_group": "IX",
+      "origin_country": "Мальта",
+      "size_class": "mini",
+      "height_min_cm": 20,
+      "height_max_cm": 25,
+      "weight_min_kg": 3,
+      "weight_max_kg": 4,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Длинная, шелковистая, без подшёрстка",
+      "coat_length": "long",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "low",
+      "temperament": "Ласковый, игривый, доверчивый",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 65,
+        "wiki": "https://ru.wikipedia.org/?curid=1235634",
+        "note": null
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3,
+          "max_kg": 4
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "portosystemic_shunt",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Щенки",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "entropion",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Молодые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 14,
+      "species": "dog",
+      "name_ru": "Золотистый ретривер",
+      "name_en": "Golden Retriever",
+      "fci_group": "VIII",
+      "origin_country": "Великобритания",
+      "size_class": "large",
+      "height_min_cm": 51,
+      "height_max_cm": 61,
+      "weight_min_kg": 25,
+      "weight_max_kg": 34,
+      "lifespan_min_years": 10,
+      "lifespan_max_years": 12,
+      "coat_type": "Средней длины, плотная, водоотталкивающая, с подшёрстком",
+      "coat_length": "medium",
+      "grooming_level": "medium",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Дружелюбный, обучаемый, ориентирован на человека",
+      "source_id": 18,
+      "data_quality": "estimate",
+      "extra": {
+        "fci_number": 111,
+        "wiki": "https://ru.wikipedia.org/?curid=626193",
+        "note": "Рост: кобели 56–61, суки 51–56 см"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 29,
+          "max_kg": 34
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 25,
+          "max_kg": 29
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": "Полигенная предрасположенность"
+        },
+        {
+          "condition": "elbow_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "atopic_dermatitis",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "1–3 года",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "hypothyroidism",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "ccl_rupture",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "SLC4A3",
+          "mutation": "GR-PRA1",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        },
+        {
+          "gene": "TTC8",
+          "mutation": "GR-PRA2",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        },
+        {
+          "gene": "PNPLA1",
+          "mutation": "Ichthyosis",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "species": "dog",
+      "name_ru": "Английский кокер-спаниель",
+      "name_en": "English Cocker Spaniel",
+      "fci_group": "VIII",
+      "origin_country": "Великобритания",
+      "size_class": "medium",
+      "height_min_cm": 38,
+      "height_max_cm": 43,
+      "weight_min_kg": 13,
+      "weight_max_kg": 15,
+      "lifespan_min_years": 11,
+      "lifespan_max_years": 14,
+      "coat_type": "Средней длины, волнистая, с подшёрстком",
+      "coat_length": "medium",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Энергичный, общительный, азартный",
+      "source_id": 18,
+      "data_quality": "mixed",
+      "extra": {
+        "fci_number": 5,
+        "wiki": "https://ru.wikipedia.org/?curid=1362845",
+        "note": "Продолжительность жизни — экспертная оценка: в карточке ru.wiki поле пустое"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 13,
+          "max_kg": 15
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "otitis_externa",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "Любой",
+          "source_id": 7,
+          "notes": "Висячие уши и обильная шерсть в ушном канале"
+        },
+        {
+          "condition": "pra",
+          "prevalence_text": "Риск при мутации PRCD",
+          "evidence_level": "B",
+          "age_of_onset": "Старше 3 лет",
+          "source_id": 8,
+          "notes": "Аутосомно-рецессивный"
+        },
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "atopic_dermatitis",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "1–3 года",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "PRCD",
+          "mutation": "c.5G>A",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "species": "dog",
+      "name_ru": "Бигль",
+      "name_en": "Beagle",
+      "fci_group": "VI",
+      "origin_country": "Великобритания",
+      "size_class": "medium",
+      "height_min_cm": 33,
+      "height_max_cm": 40,
+      "weight_min_kg": 9,
+      "weight_max_kg": 14,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Короткая, плотная, водостойкая",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Дружелюбный, любознательный, ведомый запахом",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 161,
+        "wiki": "https://ru.wikipedia.org/?curid=193007",
+        "note": null
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 9,
+          "max_kg": 14
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "obesity",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": "Постоянный поиск еды, низкая насыщаемость"
+        },
+        {
+          "condition": "otitis_externa",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Любой",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "epilepsy",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "6 мес – 5 лет",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "hypothyroidism",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "ivdd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 17,
+      "species": "dog",
+      "name_ru": "Сибирский хаски",
+      "name_en": "Siberian Husky",
+      "fci_group": "V",
+      "origin_country": "США",
+      "size_class": "medium",
+      "height_min_cm": 50.5,
+      "height_max_cm": 60,
+      "weight_min_kg": 15.5,
+      "weight_max_kg": 28,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 14,
+      "coat_type": "Двойная, средней длины, густой подшёрсток",
+      "coat_length": "medium",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Энергичный, независимый, дружелюбный",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 270,
+        "wiki": "https://ru.wikipedia.org/?curid=631707",
+        "note": "Рост: кобели 53,5–60, суки 50,5–56 см"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 20.5,
+          "max_kg": 28
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 15.5,
+          "max_kg": 23
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": "Наследственная катаракта описана у породы"
+        },
+        {
+          "condition": "pra",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "atopic_dermatitis",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "1–3 года",
+          "source_id": 7,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 18,
+      "species": "dog",
+      "name_ru": "Ротвейлер",
+      "name_en": "Rottweiler",
+      "fci_group": "II",
+      "origin_country": "Германия",
+      "size_class": "large",
+      "height_min_cm": 56,
+      "height_max_cm": 68,
+      "weight_min_kg": 35,
+      "weight_max_kg": 50,
+      "lifespan_min_years": 9,
+      "lifespan_max_years": 12,
+      "coat_type": "Короткая, прямая, с подшёрстком",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Уверенный, спокойный, защитный",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 147,
+        "wiki": "https://ru.wikipedia.org/?curid=54625",
+        "note": "Рост: кобели 61–68, суки 56–63 см; вес кобелей ~50 кг, сук ~42 кг"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 45,
+          "max_kg": 50
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 35,
+          "max_kg": 42
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "elbow_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "ccl_rupture",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "obesity",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "vwd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Любой",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 19,
+      "species": "dog",
+      "name_ru": "Боксёр",
+      "name_en": "Boxer",
+      "fci_group": "II",
+      "origin_country": "Германия",
+      "size_class": "large",
+      "height_min_cm": 53,
+      "height_max_cm": 63,
+      "weight_min_kg": 25,
+      "weight_max_kg": 32,
+      "lifespan_min_years": 10,
+      "lifespan_max_years": 12,
+      "coat_type": "Короткая, гладкая, плотная",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 1,
+      "exercise_level": "high",
+      "temperament": "Энергичный, игривый, уверенный",
+      "source_id": 18,
+      "data_quality": "mixed",
+      "extra": {
+        "fci_number": 144,
+        "wiki": "https://ru.wikipedia.org/?curid=518630",
+        "note": "Рост: кобели 57–63, суки 53–59 см; вес кобелей от 30 кг"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 30,
+          "max_kg": 32
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 25,
+          "max_kg": 27
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "arvc",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "Взрослые",
+          "source_id": 8,
+          "notes": "Семейная аритмогенная кардиомиопатия, описана у породы"
+        },
+        {
+          "condition": "boas",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "С раннего возраста",
+          "source_id": 7,
+          "notes": "Брахицефалия"
+        },
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "SOD1",
+          "mutation": "c.118G>A",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "species": "dog",
+      "name_ru": "Бордер-колли",
+      "name_en": "Border Collie",
+      "fci_group": "I",
+      "origin_country": "Великобритания",
+      "size_class": "medium",
+      "height_min_cm": 48,
+      "height_max_cm": 56,
+      "weight_min_kg": 15,
+      "weight_max_kg": 20,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Длинная или средней длины, с подшёрстком",
+      "coat_length": "medium",
+      "grooming_level": "medium",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Интенсивный, обучаемый, ориентирован на работу",
+      "source_id": 18,
+      "data_quality": "estimate",
+      "extra": {
+        "fci_number": 297,
+        "wiki": "https://ru.wikipedia.org/?curid=176718",
+        "note": "Рост 48–56 см — экспертная оценка по стандарту: в карточке ru.wiki поле пустое"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 15,
+          "max_kg": 20
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hip_dysplasia",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "epilepsy",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "6 мес – 5 лет",
+          "source_id": 7,
+          "notes": "В породе описаны семейные формы"
+        },
+        {
+          "condition": "pra",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Включая колли-аномалию глаз (CEA) как отдельный офтальмологический риск"
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "NHEJ1",
+          "mutation": "CEA",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "species": "dog",
+      "name_ru": "Доберман",
+      "name_en": "Dobermann",
+      "fci_group": "II",
+      "origin_country": "Германия",
+      "size_class": "large",
+      "height_min_cm": 63,
+      "height_max_cm": 72,
+      "weight_min_kg": 32,
+      "weight_max_kg": 45,
+      "lifespan_min_years": 10,
+      "lifespan_max_years": 12,
+      "coat_type": "Короткая, гладкая, плотно прилегающая",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Смелый, бдительный, работоспособный",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 143,
+        "wiki": "https://ru.wikipedia.org/?curid=456073",
+        "note": "Рост: кобели 68–72, суки 63–68 см"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 40,
+          "max_kg": 45
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 32,
+          "max_kg": 35
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "dcm",
+          "prevalence_text": "Высокая распространённость",
+          "evidence_level": "A",
+          "age_of_onset": "Взрослые",
+          "source_id": 8,
+          "notes": "Наиболее значимая породная проблема; риск возрастает с возрастом"
+        },
+        {
+          "condition": "vwd",
+          "prevalence_text": "Риск при мутации VWF",
+          "evidence_level": "B",
+          "age_of_onset": "Любой",
+          "source_id": 8,
+          "notes": "Аутосомно-рецессивный, неполная пенетрантность"
+        },
+        {
+          "condition": "hypothyroidism",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "ccl_rupture",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "VWF",
+          "mutation": "c.7437G>A (vWD1)",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "species": "dog",
+      "name_ru": "Джек-рассел-терьер",
+      "name_en": "Jack Russell Terrier",
+      "fci_group": "III",
+      "origin_country": "Великобритания",
+      "size_class": "small",
+      "height_min_cm": 25,
+      "height_max_cm": 30,
+      "weight_min_kg": 5,
+      "weight_max_kg": 6,
+      "lifespan_min_years": 13,
+      "lifespan_max_years": 16,
+      "coat_type": "Гладкая, жёсткая или с изломом",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Азартный, смелый, неутомимый",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "fci_number": 345,
+        "wiki": "https://ru.wikipedia.org/?curid=676777",
+        "note": null
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 5,
+          "max_kg": 6
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "patellar_luxation",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Молодые",
+          "source_id": 7,
+          "notes": null
+        },
+        {
+          "condition": "lens_luxation",
+          "prevalence_text": "Риск при мутации ADAMTS17",
+          "evidence_level": "B",
+          "age_of_onset": "3–7 лет",
+          "source_id": 8,
+          "notes": "Первичная вывих хрусталика, аутосомно-рецессивный"
+        },
+        {
+          "condition": "cataracts",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "ADAMTS17",
+          "mutation": "PLL",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "species": "cat",
+      "name_ru": "Бенгальская кошка",
+      "name_en": "Bengal",
+      "fci_group": "III",
+      "origin_country": "США",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3.5,
+      "weight_max_kg": 7,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 16,
+      "coat_type": "Короткая, плотная, с «диким» рисунком",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Активный, любопытный, игривый",
+      "source_id": 19,
+      "data_quality": "estimate",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=652204",
+        "note": "Вес и продолжительность жизни — экспертная оценка: фелинологический стандарт вес не задаёт"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 5,
+          "max_kg": 7
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 3.5,
+          "max_kg": 5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hcm",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "pra",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 8,
+          "notes": "В породе описана прогрессирующая атрофия сетчатки"
+        },
+        {
+          "condition": "flutd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 24,
+      "species": "cat",
+      "name_ru": "Канадский сфинкс",
+      "name_en": "Sphynx",
+      "fci_group": "III",
+      "origin_country": "Канада",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3.5,
+      "weight_max_kg": 5.5,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 14,
+      "coat_type": "Бесшёрстная, кожный покров с пушком",
+      "coat_length": "hairless",
+      "grooming_level": "medium",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Ласковый, общительный, активный",
+      "source_id": 19,
+      "data_quality": "estimate",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=512572",
+        "note": "Вес — экспертная оценка; у сфинксов важна регулярная гигиена кожи"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3.5,
+          "max_kg": 5.5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hcm",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Регулярное ЭхоКГ рекомендуется породными клубами"
+        },
+        {
+          "condition": "dental_disease",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 25,
+      "species": "cat",
+      "name_ru": "Шотландская вислоухая",
+      "name_en": "Scottish Fold",
+      "fci_group": "III",
+      "origin_country": "Великобритания",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 2.7,
+      "weight_max_kg": 6,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Короткая, плотная",
+      "coat_length": "short",
+      "grooming_level": "medium",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Спокойный, ласковый, ненавязчивый",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=795301",
+        "note": "Вес: коты 4–6 кг, кошки 2,7–4 кг; средняя продолжительность жизни 15 лет"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 4,
+          "max_kg": 6
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 2.7,
+          "max_kg": 4
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "osteochondrodysplasia",
+          "prevalence_text": "Связана с геном FOLD",
+          "evidence_level": "A",
+          "age_of_onset": "Молодые",
+          "source_id": 8,
+          "notes": "Причина — вариант TRPV4, тот же ген даёт вислоухость; гомозиготы тяжелее"
+        },
+        {
+          "condition": "hcm",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "pkd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "TRPV4",
+          "mutation": "FOLD (вислоухость/остеохондродисплазия)",
+          "inheritance": "Аутосомно-доминантный с неполной пенетрантностью",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "species": "cat",
+      "name_ru": "Абиссинская кошка",
+      "name_en": "Abyssinian",
+      "fci_group": "III",
+      "origin_country": "Эфиопия",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3,
+      "weight_max_kg": 6,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 16,
+      "coat_type": "Короткая, тикированная",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Активный, любопытный, контактный",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=550753",
+        "note": "Вес 3–6 кг по тексту статьи; отдельные кошки доживают до 20 лет"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3,
+          "max_kg": 6
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "pra",
+          "prevalence_text": "Риск при мутации CRX (rdAc)",
+          "evidence_level": "A",
+          "age_of_onset": "2–5 лет",
+          "source_id": 8,
+          "notes": "Аутосомно-рецессивный, описана у абиссинских и сомалийских кошек"
+        },
+        {
+          "condition": "ckd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "flutd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": [
+        {
+          "gene": "CRX",
+          "mutation": "rdAc (делеция 29 п.н.)",
+          "inheritance": "Аутосомно-рецессивный",
+          "test_available": 1,
+          "source_id": 8
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "species": "cat",
+      "name_ru": "Сибирская кошка",
+      "name_en": "Siberian",
+      "fci_group": "III",
+      "origin_country": "Россия",
+      "size_class": "large",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3.5,
+      "weight_max_kg": 9,
+      "lifespan_min_years": 12,
+      "lifespan_max_years": 15,
+      "coat_type": "Полудлинная, густая, с двойным подшёрстком",
+      "coat_length": "long",
+      "grooming_level": "high",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Спокойный, уверенный, привязанный к дому",
+      "source_id": 18,
+      "data_quality": "fci",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=1306109",
+        "note": "Вес: коты 6–9 кг, кошки 3,5–7 кг"
+      },
+      "weights": [
+        {
+          "sex": "male",
+          "age_stage": "adult",
+          "min_kg": 6,
+          "max_kg": 9
+        },
+        {
+          "sex": "female",
+          "age_stage": "adult",
+          "min_kg": 3.5,
+          "max_kg": 7
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "hcm",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "flutd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 28,
+      "species": "cat",
+      "name_ru": "Русская голубая кошка",
+      "name_en": "Russian Blue",
+      "fci_group": "III",
+      "origin_country": "Россия",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3,
+      "weight_max_kg": 5,
+      "lifespan_min_years": 15,
+      "lifespan_max_years": 20,
+      "coat_type": "Короткая, плотная, двойная",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "medium",
+      "temperament": "Сдержанный, деликатный, привязанный к хозяину",
+      "source_id": 19,
+      "data_quality": "estimate",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=415005",
+        "note": "Породоспецифичных заболеваний в открытых источниках не выявлено; вес и продолжительность жизни — экспертная оценка"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3,
+          "max_kg": 5
+        }
+      ],
+      "predispositions": [],
+      "genetic_tests": []
+    },
+    {
+      "id": 29,
+      "species": "cat",
+      "name_ru": "Сиамская кошка",
+      "name_en": "Siamese",
+      "fci_group": "IV",
+      "origin_country": "Таиланд",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3,
+      "weight_max_kg": 5,
+      "lifespan_min_years": 15,
+      "lifespan_max_years": 20,
+      "coat_type": "Короткая, плотно прилегающая, без подшёрстка",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Общительный, разговорчивый, требовательный к вниманию",
+      "source_id": 19,
+      "data_quality": "estimate",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=1018645",
+        "note": "Вес и продолжительность жизни — экспертная оценка"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3,
+          "max_kg": 5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "feline_asthma",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "B",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": "Порода чаще других упоминается в исследованиях астмы кошек"
+        },
+        {
+          "condition": "ckd",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Старше 8 лет",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    },
+    {
+      "id": 30,
+      "species": "cat",
+      "name_ru": "Ориентальная кошка",
+      "name_en": "Oriental Shorthair",
+      "fci_group": "IV",
+      "origin_country": "Великобритания",
+      "size_class": "medium",
+      "height_min_cm": null,
+      "height_max_cm": null,
+      "weight_min_kg": 3,
+      "weight_max_kg": 5,
+      "lifespan_min_years": 15,
+      "lifespan_max_years": 17,
+      "coat_type": "Короткая, блестящая, без подшёрстка",
+      "coat_length": "short",
+      "grooming_level": "low",
+      "brachycephalic": 0,
+      "exercise_level": "high",
+      "temperament": "Контактный, активный, разговорчивый",
+      "source_id": 19,
+      "data_quality": "estimate",
+      "extra": {
+        "wiki": "https://ru.wikipedia.org/?curid=2589012",
+        "note": "Средняя продолжительность жизни 17 лет по тексту статьи; вес — экспертная оценка"
+      },
+      "weights": [
+        {
+          "sex": "any",
+          "age_stage": "adult",
+          "min_kg": 3,
+          "max_kg": 5
+        }
+      ],
+      "predispositions": [
+        {
+          "condition": "feline_asthma",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        },
+        {
+          "condition": "hcm",
+          "prevalence_text": "Повышенный риск",
+          "evidence_level": "C",
+          "age_of_onset": "Взрослые",
+          "source_id": 9,
+          "notes": null
+        }
+      ],
+      "genetic_tests": []
+    }
+  ],
+  "corrections": [
+    {
+      "description": "Британская короткошёрстная: общий диапазон веса не включал сук (3,5–5,5 кг из breed_weight)",
+      "sql": "UPDATE breed SET weight_min_kg = 3.5 WHERE id = 6 AND weight_min_kg > 3.5;"
+    }
+  ]
+}

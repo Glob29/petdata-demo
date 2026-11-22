@@ -1,0 +1,25 @@
+{
+  "version": "2026.11",
+  "items": [
+    {
+      "brand": "Whiskas",
+      "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-ragu-s-kuricei-75g",
+      "expect": { "protein": 8, "fat": 3, "me": 700, "weight_g": 75, "species": "cat", "completeness": "complete" }
+    },
+    {
+      "brand": "Whiskas",
+      "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-zhele-s-krolikom-75g",
+      "expect": { "protein": 12, "fat": 2, "me": 700, "weight_g": 75, "species": "cat" }
+    },
+    {
+      "brand": "Grandorf",
+      "url": "https://grandorf.ru/fresh/catalog/cat_foods/sterilised_cats/gdf_cat_sterilised_turkey_sweet_potato_400_g/",
+      "expect": { "protein": 36, "fat": 10, "me": 3762, "weight_g": 400, "species": "cat", "form": "dry" }
+    },
+    {
+      "brand": "Hill's",
+      "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-optimal-care-chicken-dry",
+      "expect": { "protein": 32.4, "fat": 20.6, "me": 4161, "weight_g": 300, "species": "cat", "form": "dry" }
+    }
+  ]
+}

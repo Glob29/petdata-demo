@@ -1,0 +1,3826 @@
+{
+  "started_at": "2026-11-21T10:39:05.954Z",
+  "market": "RU",
+  "brands": [
+    {
+      "brand": "Whiskas",
+      "discovered": 20,
+      "fetched": 20,
+      "loaded": 0,
+      "skipped": 20,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-skazochnoe-menyu-krasnaja-ryba-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек, «Сказочное меню. Красная рыба в желе»",
+          "id": 8
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-zhele-s-krolikom-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек желе с кроликом",
+          "id": 9
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-ragu-s-treskoy-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек рагу с треской",
+          "id": 10
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-ragu-s-telyatinoy-i-yazykom-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек рагу с телятиной и языком",
+          "id": 11
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-zhele-s-telyatinoy-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек желе с телятиной",
+          "id": 12
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-ragu-s-indeykoy-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек рагу с индейкой",
+          "id": 13
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-zhele-s-forelyu-i-lososem-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек желе с форелью и лососем",
+          "id": 43
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-pashtet-s-forelyu-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек паштет с форелью",
+          "id": 44
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyy-korm-whiskas-dlya-koshek-pashtet-s-krolikom-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек паштет с кроликом",
+          "id": 45
+        },
+        {
+          "url": "https://whiskas.ru/products/appmix/vlazhnyy-korm-whiskas-osoboe-udovolstvie-dlya-koshek-ragu-s-telyatinoy-yagnenkom-i-ovoschami-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек рагу с телятиной, ягненком и овощами",
+          "id": 46
+        },
+        {
+          "url": "https://whiskas.ru/products/appmix/vlazhnyy-korm-whiskas-osoboe-udovolstvie-dlya-koshek-zhele-s-indeykoy-pechenyu-i-ovoschami-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек желе с индейкой, печенью и овощами",
+          "id": 47
+        },
+        {
+          "url": "https://whiskas.ru/products/appmix/vlazhnyy-korm-whiskas-osoboe-udovolstvie-dlya-koshek-ragu-s-govyadinoy-yazykom-i-ovoschami-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек рагу с говядиной, языком и овощами",
+          "id": 48
+        },
+        {
+          "url": "https://whiskas.ru/products/appmix/vlazhnyy-korm-whiskas-osoboe-udovolstvie-dlya-koshek-zhele-s-beloy-ryboy-krevetkami-i-ovoschami-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм WHISKAS для кошек желе с белой рыбой, креветками и овощами",
+          "id": 49
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-pashtet-s-utkoi-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм Whiskas для кошек, паштет с уткой",
+          "id": 50
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-pashtet-s-govyadinoi-i-pechenyu-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм Whiskas для кошек, паштет с говядиной и печенью",
+          "id": 51
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-ragu-s-kuricei-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм Whiskas для кошек, рагу с курицей",
+          "id": 52
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-zhele-s-govyadinoi-i-krolikom-75g",
+          "status": "skipped",
+          "name": "Влажный корм Whiskas для кошек, желе с говядиной и кроликом",
+          "id": 53
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-pashtet-s-indeikoi-i-krolikom-75g",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм Whiskas для кошек, желе с индейкой и кроликом",
+          "id": 54
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskasdlya-koshek-ragu-s-forelyu-i-lososem-75g",
+          "status": "skipped",
+          "name": "Влажный корм Whiskas для кошек, рагу с форелью и лососем",
+          "id": 55
+        },
+        {
+          "url": "https://whiskas.ru/products/adult/vlazhnyi-korm-whiskas-dlya-koshek-ragu-s-indeikoi-i-krolikom-75g",
+          "status": "skipped",
+          "name": "Влажный корм Whiskas для кошек, рагу с индейкой и кроликом",
+          "id": 56
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Grandorf",
+      "discovered": 20,
+      "fetched": 20,
+      "loaded": 0,
+      "skipped": 20,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/kitten/gdf_kitten_lamb_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для котят",
+          "id": 14
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/adult_cats/gdf_cat_adult_lamb_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для взрослых кошек",
+          "id": 15
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/adult_cats/gdf_cat_adult_turkey_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо индейки с бататом для взрослых кошек",
+          "id": 16
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/adult_cats/gdf_cat_adult_salmon_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее филе лосося с бататом для взрослых кошек",
+          "id": 17
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/adult_cats/gdf_cat_adult_duck_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо утки с бататом для взрослых кошек",
+          "id": 18
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/sterilised_cats/gdf_cat_sterilised_lamb_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для стерилизованных или пожилых кошек",
+          "id": 19
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/sterilised_cats/gdf_cat_sterilised_turkey_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо индейки с бататом для стерилизованных или пожилых кошек",
+          "id": 57
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/sterilised_cats/gdf_cat_sterilised_salmon_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее филе лосося с бататом для стерилизованных или пожилых кошек",
+          "id": 58
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/sterilised_cats/gdf_cat_sterilised_duck_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо утки с бататом для стерилизованных или пожилых кошек",
+          "id": 59
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/large_breeds_cats/gdf_cat_large_lamb_sweet_potato_400_g/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для кошек крупных пород",
+          "id": 60
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_file_tuntsa_s_file_lososya_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Филе тунца с филе лосося в желе для взрослых кошек",
+          "id": 61
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_file_tuntsa_s_krevetkami_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Филе тунца с креветками в желе для взрослых кошек",
+          "id": 62
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_file_tuntsa_s_file_kraba_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Филе тунца с филе краба в желе для взрослых кошек",
+          "id": 63
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_file_tuntsa_s_kurinoy_grudkoy_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Филе тунца с куриной грудкой в желе для взрослых кошек",
+          "id": 64
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_kurinaya_grudka_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Куриная грудка в желе для взрослых кошек",
+          "id": 65
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_kurinaya_grudka_s_utinym_file_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Куриная грудка с утиным филе в желе для взрослых кошек",
+          "id": 66
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_kurinaya_grudka_s_file_lososya_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Куриная грудка с филе лосося в желе для взрослых кошек",
+          "id": 67
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/cat_foods/wet_food/gdf_konservy_d_k_file_tuntsa_v_zhele_70_g/",
+          "status": "skipped",
+          "name": "Филе тунца в желе для взрослых кошек",
+          "id": 68
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/dog_foods/puppy_junior/gdf_puppy_lamb_sweet_potato_1_kg/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для щенков",
+          "id": 69
+        },
+        {
+          "url": "https://grandorf.ru/fresh/catalog/dog_foods/puppy_junior/gdf_junior_med_maxi_lamb_sweet_potato_1_kg/",
+          "status": "skipped",
+          "name": "Свежее мясо ягненка с бататом для юниоров",
+          "id": 70
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Hill's",
+      "discovered": 40,
+      "fetched": 40,
+      "loaded": 0,
+      "skipped": 40,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-kitten-healthy-development-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для котят, с курицей",
+          "id": 71
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-kitten-healthy-development-tuna-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для котят, с тунцом",
+          "id": 72
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-optimal-care-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых кошек, с курицей",
+          "id": 73
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-optimal-care-with-tuna-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых кошек, с тунцом",
+          "id": 74
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-optimal-care-with-lamb-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых кошек, с ягненком",
+          "id": 75
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-mature-adult-7-plus-active-longevity-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для пожилых кошек, с курицей",
+          "id": 76
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-mature-adult-7-plus-active-longevity-with-tuna-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для пожилых кошек, с тунцом",
+          "id": 77
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-indoor-cat-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan Hairball Indoor для взрослых кошек, с курицей",
+          "id": 78
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-kitten-with-ocean-fish-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для котят, с океанической рыбой",
+          "id": 79
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-id-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet i/d для кошек, с курицей",
+          "id": 80
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-md-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet m/d для кошек, с курицей",
+          "id": 81
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-td-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet t/d для кошек, с курицей",
+          "id": 82
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-wd-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet w/d Multi-Benefit для кошек, с курицей",
+          "id": 83
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-zd-low-allergen-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet z/d для кошек, оригинальный вкус",
+          "id": 84
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-with-ocean-fish-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых кошек, с океанической рыбой",
+          "id": 85
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-jd-original-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet j/d для кошек, с курицей",
+          "id": 86
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-with-turkey-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых кошек, с индейкой",
+          "id": 87
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-tender-chunks-gravy-with-beef-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых кошек, с говядиной",
+          "id": 88
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-kd-with-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet k/d для кошек, с курицей",
+          "id": 89
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-kd-with-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet k/d для кошек, с курицей",
+          "id": 90
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-kitten-with-turkey-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для котят, с индейкой",
+          "id": 91
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-kitten-with-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для котят, с курицей",
+          "id": 92
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-with-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых кошек, с курицей",
+          "id": 93
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-oral-care-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan Oral Care для ухода за полостью рта у взрослых кошек, с курицей",
+          "id": 94
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-cd-multicare-tender-chunks-gravy-with-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet c/d Multicare для кошек, с курицей",
+          "id": 95
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-id-tender-chunks-gravy-with-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet i/d для кошек, с курицей",
+          "id": 96
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-sterilised-cat-young-adult-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых стерилизованных кошек, с курицей",
+          "id": 97
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-sterilised-cat-young-adult-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых стерилизованных кошек, с курицей",
+          "id": 98
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-mature-adult-7-plus-sterilised-cat-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для стерилизованных кошек пожилого возраста, с курицей",
+          "id": 99
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-cd-multicare-tender-chunks-gravy-with-salmon-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet c/d Multicare для кошек, с лососем",
+          "id": 100
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-id-tender-salmon-chunks-in-gravy-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet i/d для кошек, с лососем",
+          "id": 101
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-kd-with-salmon-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet k/d для кошек, с лососем",
+          "id": 102
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-metabolic-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet Metabolic для кошек, с курицей",
+          "id": 103
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-sterilised-cat-young-adult-tuna-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых стерилизованных кошек, с тунцом",
+          "id": 104
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-kd-med-beef-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet k/d для кошек, с говядиной",
+          "id": 105
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-cd-urinary-stress-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet c/d Multicare Stress для кошек, с курицей",
+          "id": 106
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-cd-urinary-stress-chicken-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet c/d Multicare Stress для кошек, с курицей",
+          "id": 107
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-sterilised-cat-young-adult-with-salmon-pouch",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых стерилизованных кошек, с лососем",
+          "id": 108
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/sp-feline-science-plan-adult-perfect-weight-with-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan Perfect Weight для взрослых кошек, склонных к набору лишнего веса, с курицей",
+          "id": 109
+        },
+        {
+          "url": "https://www.hillspet.ru/cat-food/pd-feline-prescription-diet-ld-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet l/d для кошек, с курицей",
+          "id": 110
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Hill's",
+      "discovered": 20,
+      "fetched": 20,
+      "loaded": 0,
+      "skipped": 20,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-puppy-healthy-development-medium-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для щенков средних пород, с курицей",
+          "id": 20
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-puppy-healthy-development-lamb-and-rice-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для щенков средних пород, с ягненком и рисом",
+          "id": 21
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-puppy-healthy-development-large-breed-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для щенков крупных пород, с курицей",
+          "id": 22
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-adult-advanced-fitness-medium-lamb-and-rice-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых собак средних пород, с ягненком и рисом",
+          "id": 23
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-adult-advanced-fitness-large-breed-with-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых собак крупных пород, с курицей",
+          "id": 24
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-mature-adult-7-plus-active-longevity-medium-with-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для пожилых собак средних пород, с курицей",
+          "id": 25
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-mature-adult-7-plus-active-longevity-medium-lamb-and-rice-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для пожилых собак средних пород, с ягненком и рисом",
+          "id": 111
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-adult-performance-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan Performance для взрослых собак, с курицей",
+          "id": 112
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-adult-medium-savoury-turkey-canned",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Science Plan для взрослых собак, с индейкой",
+          "id": 113
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/sp-canine-science-plan-adult-advanced-fitness-large-breed-lamb-and-rice-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Science Plan для взрослых собак крупных пород, с ягненком и рисом",
+          "id": 114
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-cd-multicare-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet c/d Multicare для собак, с курицей",
+          "id": 115
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-dd-duck-and-rice-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet d/d для собак, с уткой и рисом",
+          "id": 116
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-dd-duck-canned",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet d/d для собак, с уткой",
+          "id": 117
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-kd-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet k/d для собак, оригинальный вкус",
+          "id": 118
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-ld-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet l/d для собак, оригинальный вкус",
+          "id": 119
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-ld-canned",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet l/d для собак, оригинальный вкус",
+          "id": 120
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-td-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet t/d для собак, с курицей",
+          "id": 121
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-zd-ultra-allergen-free-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet z/d для собак, оригинальный вкус",
+          "id": 122
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-wd-chicken-dry",
+          "status": "skipped",
+          "name": "Сухой корм Hill's Prescription Diet w/d для собак, с курицей",
+          "id": 123
+        },
+        {
+          "url": "https://www.hillspet.ru/dog-food/pd-canine-prescription-diet-wd-canned",
+          "status": "skipped",
+          "name": "Влажный корм Hill's Prescription Diet w/d для собак, с курицей",
+          "id": 124
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Purina Pro Plan",
+      "discovered": 4,
+      "fetched": 4,
+      "loaded": 0,
+      "skipped": 4,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/sukhoy-korm-pro-planr-dlya-vzroslykh-koshek-s",
+          "status": "skipped",
+          "name": "Сухой корм PRO PLAN для взрослых кошек, с высоким содержанием лосося",
+          "id": 26
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/sukhoy-korm-pro-plan-dlya-vzroslykh-3",
+          "status": "skipped",
+          "name": "Сухой корм PRO PLAN для взрослых стерилизованных кошек и кастрированных котов, для поддержания органов чувств, с высоким содержанием лосося",
+          "id": 27
+        },
+        {
+          "url": "https://purina.ru/dogs/korm-dlya-sobak/sukhoy-korm-pro-plan-duo-delice-dlya-vzroslykh-sobak",
+          "status": "skipped",
+          "name": "Сухой корм PRO PLAN DUO DELICE для взрослых собак средних и крупных пород, с высоким содержанием говядины",
+          "id": 28
+        },
+        {
+          "url": "https://purina.ru/dogs/korm-dlya-sobak/sukhoy-korm-pro-plan-dlya-vzroslykh-sobak-srednikh-0",
+          "status": "skipped",
+          "name": "Сухой корм PRO PLAN для взрослых собак средних пород, с высоким содержанием курицы",
+          "id": 29
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Felix",
+      "discovered": 8,
+      "fetched": 8,
+      "loaded": 0,
+      "skipped": 8,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-appetitnye-kusochki-dlya",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Аппетитные Кусочки для взрослых кошек, с курицей в желе",
+          "id": 30
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-appetitnye-kusochki-dvoynaya-0",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Аппетитные Кусочки, Двойная Вкуснятина для взрослых кошек, с индейкой и печенью, в желе",
+          "id": 31
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-sensations-dlya-vzroslykh-4",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Sensations для взрослых кошек, с говядиной в желе с томатами",
+          "id": 32
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-sensations-dlya-vzroslykh-2",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Sensations для взрослых кошек, с говядиной в соусе с томатами",
+          "id": 33
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-priroda-vkusa-dlya-vzroslykh-1",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Природа вкуса для взрослых кошек, с лососем в соусе",
+          "id": 34
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/felix-myasnye-lomtiki-korm-konservirovannyy-0",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Мясные Ломтики для взрослых кошек, с курицей",
+          "id": 35
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/vlazhnyy-korm-felix-sup-dlya-vzroslykh-koshek-s",
+          "status": "skipped",
+          "name": "Влажный корм FELIX Суп для взрослых кошек, с говядиной, пауч",
+          "id": 36
+        },
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/sukhoy-korm-felix-dvoynaya-vkusnyatinar-dlya-3",
+          "status": "skipped",
+          "name": "Сухой корм FELIX Двойная Вкуснятина для взрослых кошек, с мясом, Пакет",
+          "id": 37
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Purina One",
+      "discovered": 1,
+      "fetched": 1,
+      "loaded": 0,
+      "skipped": 1,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://purina.ru/cats/korm-dlya-koshek/sukhoy-korm-purina-one-priroda-zdorovyar-dlya",
+          "status": "skipped",
+          "name": "Сухой корм Purina ONE Природа Здоровья для стерилизованных кошек и кастрированных котов, с высоким содержанием говядины",
+          "id": 38
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Monge",
+      "discovered": 10,
+      "fetched": 10,
+      "loaded": 0,
+      "skipped": 10,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://monge.ru/product/vlazhnyij-korm-monge-cat-grill-dlya-vzroslyih-koshek-iz-novozelandskogo-yagnenka-pauchi-85-g",
+          "status": "skipped",
+          "name": "Корм Monge Cat Grill из ягненка для кошек",
+          "id": 125
+        },
+        {
+          "url": "https://monge.ru/product/vlazhnyij-korm-monge-cat-grill-dlya-sterilizovannyih-koshek-s-kuritsej-pauchi-85-g",
+          "status": "skipped",
+          "name": "Влажный корм для стерилизованных кошек с курицей",
+          "id": 126
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-sterilised-dlya-sterilizovannyih-koshek-iz-utki-15-kg",
+          "status": "skipped",
+          "name": "Корм Monge для стерилизованных кошек с уткой",
+          "id": 127
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-dlya-kotyat-i-beremennyih-koshek-iz-utki-15-kg",
+          "status": "skipped",
+          "name": "Корм Monge с уткой для котят и беременных кошек",
+          "id": 128
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-adult-dlya-vzroslyih-koshek-iz-lososya-15-kg",
+          "status": "skipped",
+          "name": "Корм Monge Adult с лососем для взрослых кошек",
+          "id": 129
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-dlya-kotyat-i-beremennyih-koshek-iz-govyadinyi-15-kg",
+          "status": "skipped",
+          "name": "Корм для котят и беременных кошек с говядиной",
+          "id": 130
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-dlya-kotyat-i-beremennyih-koshek-iz-foreli-400-g",
+          "status": "skipped",
+          "name": "Корм Monge Cat для котят и беременных кошек, форель",
+          "id": 131
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-sterilised-dlya-sterilizovannyih-koshek-iz-utki-10-kg",
+          "status": "skipped",
+          "name": "Корм Monge для стерилизованных кошек, утка",
+          "id": 132
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-dlya-kotyat-i-beremennyih-koshek-iz-foreli-15-kg",
+          "status": "skipped",
+          "name": "Корм Monge для котят и беременных кошек, форель",
+          "id": 133
+        },
+        {
+          "url": "https://monge.ru/product/suhoj-korm-monge-cat-speciality-line-monoprotein-dlya-kotyat-i-beremennyih-koshek-iz-utki-400-g",
+          "status": "skipped",
+          "name": "Корм Monge для котят и беременных кошек, утка",
+          "id": 134
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Мнямс",
+      "discovered": 10,
+      "fetched": 10,
+      "loaded": 0,
+      "skipped": 10,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-koshek-i-kotyat-starshe-6-mesyatsev-tunets-s-krevetkami-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Влажный корм для кошек и котят с тунцом и креветками",
+          "id": 135
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-koshek-i-kotyat-starshe-6-mesyatsev-tunets-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Корм с тунцом в желе для кошек и котят",
+          "id": 136
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-kotyat-s-2-do-12-mesyatsev-tunets-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Влажный корм для котят с тунцом в желе",
+          "id": 137
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-koshek-i-kotyat-starshe-6-mesyatsev-kuritsa-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Корм для кошек Мнямс с курицей в желе",
+          "id": 138
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-koshek-i-kotyat-starshe-6-mesyatsev-kuritsa-s-lososem-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Корм с курицей и лососем для кошек и котят",
+          "id": 139
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-dopolnitelnyij-korm-mnyams-na-kazhdyij-den-dlya-koshek-i-kotyat-starshe-6-mesyatsev-kuritsa-s-govyadinoj-v-nezhnom-zhele-80-g",
+          "status": "skipped",
+          "name": "Влажный корм для кошек с курицей и говядиной",
+          "id": 140
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-korm-mnyams-na-kazhdyij-den-kusochki-v-souse-s-telyatinoj-dlya-aktivnyih-koshek-85-g",
+          "status": "skipped",
+          "name": "Влажный корм с телятиной для взрослых кошек",
+          "id": 141
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-korm-mnyams-na-kazhdyij-den-kusochki-v-souse-s-krolikom-dlya-sterilizovannyih-koshek-85-g",
+          "status": "skipped",
+          "name": "Корм для стерилизованных кошек с кроликом",
+          "id": 142
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-korm-mnyams-na-kazhdyij-den-kusochki-v-souse-s-yagnenkom-dlya-komfortnogo-pischevareniya-u-koshek-85-g",
+          "status": "skipped",
+          "name": "Корм с ягненком для взрослых кошек в соусе",
+          "id": 143
+        },
+        {
+          "url": "https://mnyams.ru/product/vlazhnyij-korm-mnyams-na-kazhdyij-den-kusochki-v-souse-s-govyadinoj-dlya-krupnyih-koshek-85-g",
+          "status": "skipped",
+          "name": "Корм для крупных кошек с говядиной",
+          "id": 144
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "Perfect Fit",
+      "discovered": 10,
+      "fetched": 10,
+      "loaded": 0,
+      "skipped": 10,
+      "failed": 0,
+      "products": [
+        {
+          "url": "https://www.perfectfit.ru/product-detail/lakomstva-dlya-koshek-immunity-s-kuricej/",
+          "status": "skipped",
+          "name": "Лакомство для кошек PERFECT FIT Для поддержания иммунитета (IMMUNITY) с курицей и добавлением экстракта бархатцев",
+          "id": 145
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/syhoj-korm-dlya-koshek-perfect-fit-s-govyadinoj-dlya-immyniteta/",
+          "status": "skipped",
+          "name": "Сухой корм для кошек PERFECT FIT с говядиной для иммунитета",
+          "id": 146
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/suhoj-dlya-podderjaniya-immuniteta-koshek-s-indeikoi/",
+          "status": "skipped",
+          "name": "Профессиональный сухой рацион PERFECT FIT IMMUNITY для поддержания иммунитета кошек с индейкой, спирулиной и клюквой",
+          "id": 147
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-dlya-podderjaniya-immuniteta-koshek-indeika-v-jele/",
+          "status": "skipped",
+          "name": "Профессиональный влажный рацион PERFECT FIT IMMUNITY для поддержания иммунитета кошек, индейка в желе с добавлением спирулины",
+          "id": 148
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-dlya-podderjaniya-immuniteta-koshek-govyadina-v-jele/",
+          "status": "skipped",
+          "name": "Профессиональный влажный рацион PERFECT FIT IMMUNITY для поддержания иммунитета кошек, говядина в желе с добавлением семян льна",
+          "id": 149
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-dlya-sterilizovannyh-koshek-pashtet-s-indejkoj/",
+          "status": "skipped",
+          "name": "Профессиональный влажный рацион PERFECT FIT для стерилизованных кошек, паштет с индейкой",
+          "id": 39
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-korm-dlya-sterilizovannyh-koshek-perfect-fit-pashtet-s-govyadinoj/",
+          "status": "skipped",
+          "name": "Влажный корм для стерилизованных кошек PERFECT FIT паштет с говядиной",
+          "id": 40
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-dlya-sterilizovannyh-koshek-s-govyadinoj/",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм PERFECT FIT для стерилизованных кошек с говядиной в соусе",
+          "id": 41
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/vlazhnyj-korm-dlya-sterilizovannyh-koshek-perfect-fit-s-kyritsej-v-soyse/",
+          "status": "skipped",
+          "name": "Влажный полнорационный корм PERFECT FIT для стерилизованных кошек с курицей в соусе",
+          "id": 42
+        },
+        {
+          "url": "https://www.perfectfit.ru/product-detail/suhoj-dlya-sterilizovannyh-koshek-s-govyadinoj/",
+          "status": "skipped",
+          "name": "Сухой полнорационный корм PERFECT FIT для стерилизованных кошек с говядиной",
+          "id": 150
+        }
+      ],
+      "certificates": 0
+    },
+    {
+      "brand": "4lapy",
+      "discovered": 370,
+      "fetched": 370,
+      "loaded": 158,
+      "skipped": 191,
+      "failed": 21,
+      "products": [
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-sterilized-classic-suhoj-korm-dlya-sterilizovannyh-koshek-s-kuritsej-4-kg-1190-1050751/",
+          "status": "skipped",
+          "name": "Ownat Adult Sterilized Classic Сухой корм для стерилизованных кошек, с курицей, 400 гр",
+          "id": 151
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-sterilized-grain-free-just-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-s-kuritsej-1-kg-1184-1042258/",
+          "status": "skipped",
+          "name": "Ownat Adult Sterilized Grain Free Just Сухой корм беззерновой для стерилизованных кошек, с курицей, 400 гр",
+          "id": 152
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-sterilised-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-chetyre-vida-myasa-400-gr-1178-1040174/",
+          "status": "loaded",
+          "id": 418,
+          "name": "GRANDORF Holistic Adult Sterilised Сухой корм для взрослых стерилизованных кошек, четыре вида мяса, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-gastrointestinal-suhoj-dieticheskij-korm-dlya-koshek-pri-zabolevaniyah-zhkt-s-kuritsej-400-gr-3143-1043172/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Cat Gastrointestinal диетический сухой корм для кошек при заб олеваниях ЖКТ с курицей",
+          "id": 154
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sterilised-37-regular-suhoj-korm-dlya-sterilizovannyh-koshek-s-1-do-7-let-2-kg-1012-1000715/",
+          "status": "skipped",
+          "name": "Royal Canin Sterilised 37 Regular Сухой корм для стерилизованных кошек с 1 до 7 лет, 400 гр",
+          "id": 155
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-s-yagnenkom-400-gr-92812-1064837/",
+          "status": "skipped",
+          "name": "Mealfeel Sterilized Сухой корм для стерилизованных кошек, с ягненком, 400 гр",
+          "id": 156
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-sterilized-grain-free-suhoj-korm-dlya-kastrirovannyh-kotov-i-sterilizovannyh-koshek-v-vozraste-ot-1-goda-do-7-let-s-kuritsej-400-gr-83596-1056877/",
+          "status": "skipped",
+          "name": "Grandin Sterilized Grain free Сухой корм для кастрированных котов и стерилизованных кошек в возрасте от 1 года до 7 лет, с курицей, 400 гр",
+          "id": 157
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-sterilized-grain-free-prime-suhoj-korm-dlya-sterilizovannyh-koshek-s-kuritsej-i-indejkoj-1-kg-1180-1040784/",
+          "status": "skipped",
+          "name": "Ownat Adult Sterilized Grain Free Prime Сухой корм для стерилизованных кошек, с курицей и индейкой",
+          "id": 158
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-s-yagnenkom-400-gr-90968-1063657/",
+          "status": "skipped",
+          "name": "Wellkiss Sterilized Сухой корм для стерилизованных кошек, с ягненком, 400 гр",
+          "id": 159
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-gi32-s-o-suhoj-korm-pri-lechenii-zhkt-dlya-koshek-2-kg-87609-1003547/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Сухой корм при нарушениях пищеварения у кошек, 350 гр",
+          "id": 160
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-urinary-s-o-suhoj-korm-dlya-koshek-pri-zabolevaniyah-distalnogo-otdela-mochevydelitelnoj-sistemy-1-5-kg-88774-1000862/",
+          "status": "skipped",
+          "name": "Royal Canin Urinary S/O Сухой корм для кошек при заболеваниях дистального отдела мочевыделительной системы, 350 гр",
+          "id": 161
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-sterilised-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-s-krolikom-i-indejkoj-400-gr-99684-1040168/",
+          "status": "loaded",
+          "id": 419,
+          "name": "GRANDORF Holistic Adult Sterilised Сухой корм для взрослых стерилизованных кошек, с кроликом и индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-kitten-suhoj-korm-dlya-kotyat-do-12-mesyatsev-s-indejkoj-i-kuritsej-400-gr-92810-1064835/",
+          "status": "skipped",
+          "name": "Mealfeel Kitten Сухой корм для котят до 12 месяцев, с индейкой и курицей, 400 гр",
+          "id": 163
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-starshe-7-let-1-5-kg-1033-1026803/",
+          "status": "skipped",
+          "name": "Royal Canin Sterilised Сухой корм для стерилизованных кошек старше 7 лет, 400 гр",
+          "id": 164
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-s-kuritsej-8-kg-90961-1063650/",
+          "status": "skipped",
+          "name": "Wellkiss Sterilized Сухой корм для стерилизованных кошек, с курицей, 400 гр",
+          "id": 165
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-suhoj-korm-dlya-sterilizovannyh-koshek-s-yagnenkom-i-indejkoj-1-5-kg-95730-1053741/",
+          "status": "skipped",
+          "name": "AlphaPet Сухой корм для стерилизованных кошек, с ягненком и индейкой, 400 гр",
+          "id": 166
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-adult-suhoj-korm-dlya-koshek-s-yagnenkom-1-5-kg-1135-1051884/",
+          "status": "skipped",
+          "name": "Grandin Indoor Сухой корм для кошек, с ягненком, 400 гр",
+          "id": 167
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-nd-prime-suhoj-korm-dlya-sterilizovannyh-koshek-s-kuritsej-i-granatom-300-gr-1197-1043145/",
+          "status": "skipped",
+          "name": "Farmina ND Prime Сухой корм для стерилизованных кошек, с курицей и гранатом, 300 гр",
+          "id": 168
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-kitten-suhoj-korm-dlya-kotyat-beremennyh-i-kormyashchih-koshek-s-kuritsej-400-gr-1136-1056875/",
+          "status": "skipped",
+          "name": "Grandin Kitten Сухой корм для котят, беременных и кормящих кошек, с курицей, 400 гр",
+          "id": 169
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-classic-suhoj-korm-dlya-koshek-s-ryboj-1-5-kg-1188-1050749/",
+          "status": "skipped",
+          "name": "Ownat Adult Classic Сухой корм для кошек, с рыбой, 400 гр",
+          "id": 170
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-fibre-response-fr31-s-o-suhoj-korm-dlya-koshek-pri-narusheniyah-pishchevareniya-2-kg-88773-1004588/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Fibre Response FR31 S/O Сухой корм для кошек при нарушениях пищеварения, 350 гр",
+          "id": 171
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-dlya-podderzhaniya-zdorovya-pishchevaritelnoj-sistemy-koshek-s-indejkoj-400-gr-94416-1066109/",
+          "status": "skipped",
+          "name": "Mealfeel Care Nutrition Сухой корм для поддержания здоровья пищеварительной системы кошек, с индейкой, 400 гр",
+          "id": 172
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-dlya-podderzhaniya-zdorovya-mochevydelitelnoj-sistemy-koshek-s-kuritsej-400-gr-94414-1066107/",
+          "status": "skipped",
+          "name": "Mealfeel Care Nutrition Сухой корм для поддержания здоровья мочевыделительной системы кошек, с курицей, 400 гр",
+          "id": 173
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-digest-sensitive-suhoj-korm-dlya-koshek-s-chuvstvitelnym-pishchevareniem-s-indejkoj-i-lososem-400-gr-92816-1064841/",
+          "status": "skipped",
+          "name": "Mealfeel Digest Sensitive Сухой корм для кошек с чувствительным пищеварением, с индейкой и лососем",
+          "id": 174
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-s-lososem-400-gr-92819-1064844/",
+          "status": "skipped",
+          "name": "Mealfeel Sterilized Сухой корм для стерилизованных кошек, с лососем, 400 гр",
+          "id": 175
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-exigent-suhoj-korm-dlya-priveredlivyh-koshek-s-indejkoj-400-gr-90954-1063631/",
+          "status": "skipped",
+          "name": "Wellkiss Exigent Сухой корм для привередливых кошек, с индейкой, 400 гр",
+          "id": 176
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-ultrahypo-suhoj-dieticheskij-korm-dlya-koshek-gipoallergennyj-s-ryboj-400-gr-3147-1043176/",
+          "status": "skipped",
+          "name": "Farmina Vet Life UltraHypo Сухой диетический корм для кошек гипоаллергенный, с рыбой, 400 гр",
+          "id": 177
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-fresh-adult-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-lososem-i-batatom-400-gr-90167-1063326/",
+          "status": "loaded",
+          "id": 420,
+          "name": "GRANDORF Fresh Adult Sterilised Сухой корм для стерилизованных кошек и кастрированных котов, с лососем и бататом, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-fresh-adult-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-yagnenkom-i-batatom-400-gr-90165-1063322/",
+          "status": "loaded",
+          "id": 421,
+          "name": "GRANDORF Fresh Adult Sterilised Сухой корм для стерилизованных кошек и кастрированных котов, с ягненком и бататом, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alleva-care-adult-gastrointestinal-low-fat-suhoj-dieticheskij-korm-dlya-koshek-s-kuritsej-1-5-kg-90985-1062914/",
+          "status": "skipped",
+          "name": "Alleva Care Adult Gastrointestinal Low Fat Сухой диетический корм для кошек, с курицей",
+          "id": 180
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-kitten-suhoj-korm-dlya-kotyat-s-yagnenkom-i-indejkoj-400-gr-1173-1040164/",
+          "status": "loaded",
+          "id": 422,
+          "name": "GRANDORF Holistic Kitten Сухой корм для котят, с ягненком и индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-renal-plus-suhoj-korm-dlya-podderzhaniya-zdorovya-pochek-u-sterilizovannyh-koshek-s-vysokim-soderzhaniem-indejki-1-5-kg-1005-1000001/",
+          "status": "loaded",
+          "id": 423,
+          "name": "PRO PLAN Sterilised Adult Renal Plus Сухой корм для поддержания здоровья почек у стерилизованных кошек, с высоким содержанием индейки, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-monoprotein-sterilized-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-starshe-12-mesyatsev-s-indejkoj-350-gr-100713-1070060/",
+          "status": "skipped",
+          "name": "Grandin Holistic Health Privilege Monoprotein Sterilized Сухой корм беззерновой для стерилизованных кошек и кастрированных котов старше 12 месяцев, с индейкой, 350 гр",
+          "id": 243
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-maine-coon-adult-suhoj-korm-dlya-vzroslyh-koshek-porody-mejn-kun-400-gr-1017-1002782/",
+          "status": "skipped",
+          "name": "Royal Canin Maine Coon Adult Сухой корм для взрослых кошек породы мейн-кун, 400 гр",
+          "id": 293
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-care-hypoallergenic-suhoj-korm-gipoallergennyj-dlya-vzroslyh-koshek-s-ryboj-1-5-kg-1191-1053528/",
+          "status": "skipped",
+          "name": "Ownat Adult Care Hypoallergenic Сухой корм гипоаллергенный для взрослых кошек, с рыбой",
+          "id": 229
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-indoor-suhoj-korm-dlya-domashnih-koshek-s-yagnenkom-i-indejkoj-400-gr-1174-1040166/",
+          "status": "loaded",
+          "id": 424,
+          "name": "GRANDORF Holistic Adult Indoor Сухой корм для домашних кошек, с ягненком и индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-suhoj-korm-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-yagnenkom-1-5-kg-1242-1053743/",
+          "status": "skipped",
+          "name": "AlphaPet Сухой корм для взрослых кошек с чувствительным пищеварением с ягненком",
+          "id": 295
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-sterilized-grain-free-just-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-s-ryboj-1-kg-87302-1061429/",
+          "status": "skipped",
+          "name": "Ownat Adult Sterilized Grain Free Just Сухой корм беззерновой для стерилизованных кошек, с рыбой",
+          "id": 245
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-wow-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-s-indejkoj-i-potroshkami-350-gr-1237-1053735/",
+          "status": "skipped",
+          "name": "AlphaPet WOW Сухой корм для взрослых стерилизованных кошек, с индейкой и потрошками, 350 гр",
+          "id": 296
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-skin-coat-care-suhoj-korm-dlya-koshek-ot-1-goda-s-problemnoj-kozhej-i-sherstyu-ili-sklonnyh-k-allergii-s-beloj-ryboj-i-indejkoj-400-gr-1179-1040170/",
+          "status": "loaded",
+          "id": 425,
+          "name": "GRANDORF Holistic Skin Coat Care Сухой корм для кошек от 1 года с проблемной кожей и шерстью или склонных к аллергии, с белой рыбой и индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-grain-free-suhoj-korm-dlya-vzroslyh-koshek-s-kuritsej-i-indejkoj-1-kg-1186-1044815/",
+          "status": "skipped",
+          "name": "Ownat Adult Grain Free Сухой корм для взрослых кошек, с курицей и индейкой, 400 гр",
+          "id": 246
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-s-kuritsej-1-5-kg-1160-1027893/",
+          "status": "skipped",
+          "name": "Monge Sterilised Сухой корм для стерилизованных кошек с пониженным содержанием калорий, с курицей, 400 гр",
+          "id": 230
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-struvite-suhoj-dieticheskij-korm-dlya-koshek-pri-mochekamennoj-bolezni-400-gr-3141-1043170/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Struvite Сухой диетический корм для кошек при мочекаменной болезни, с курицей",
+          "id": 231
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-s-indejkoj-400-gr-89617-1063078/",
+          "status": "loaded",
+          "id": 426,
+          "name": "GRANDORF Holistic Adult Sterilised Сухой корм для стерилизованных кошек, с индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-fresh-adult-sterilised-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-indejkoj-i-batatom-400-gr-90166-1063324/",
+          "status": "loaded",
+          "id": 427,
+          "name": "GRANDORF Fresh Adult Sterilised Сухой корм для взрослых стерилизованных кошек и кастрированных котов, с индейкой и бататом, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-s-lososem-400-gr-90963-1063653/",
+          "status": "skipped",
+          "name": "Wellkiss Sterilized Сухой корм для стерилизованных кошек, с лососем, 400 гр",
+          "id": 300
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-urinary-s-o-moderate-calorie-suhoj-korm-dlya-koshek-pri-zabolevaniyah-distalnogo-otdela-mochevydelitelnoj-sistemy-moderator-kalorij-1-5-kg-3106-1034310/",
+          "status": "skipped",
+          "name": "Royal Canin Urinary S/O Moderate calorie Сухой корм для кошек при заболеваниях дистального отдела мочевыделительной системы, модератор калорий",
+          "id": 232
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-renal-plus-suhoj-korm-dlya-podderzhaniya-zdorovya-pochek-u-sterilizovannyh-koshek-s-vysokim-soderzhaniem-lososya-1-5-kg-86246-1000002/",
+          "status": "loaded",
+          "id": 428,
+          "name": "PRO PLAN Sterilised Renal Plus Сухой корм для поддержания здоровья почек у стерилизованных кошек, с высоким содержанием лосося, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-vet-gastrointestinal-suhoj-korm-dlya-koshek-pri-rasstrojstvah-pishchevareniya-s-indejkoj-400-gr-96772-1066962/",
+          "status": "loaded",
+          "id": 429,
+          "name": "GRANDORF Vet Gastrointestinal Сухой корм для кошек при расстройствах пищеварения, с индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-kitten-prime-suhoj-bezzernovoj-korm-dlya-kotyat-s-myasom-tsyplenka-i-indejki-1-kg-1181-1040785/",
+          "status": "skipped",
+          "name": "Ownat Kitten Prime Сухой беззерновой корм для котят, с мясом цыплёнка и индейки, 400 гр",
+          "id": 250
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-suhoj-korm-dlya-sterilizovannyh-koshek-s-utkoj-i-indejkoj-1-5-kg-1241-1053742/",
+          "status": "skipped",
+          "name": "AlphaPet Сухой корм для взрослых стерилизованных кошек, с уткой и индейкой, 400 гр",
+          "id": 303
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-bezzernovoj-dlya-koshek-s-utkoj-400-gr-94420-1066113/",
+          "status": "skipped",
+          "name": "Mealfeel Care Nutrition Сухой корм беззерновой для кошек, с уткой, 400 гр",
+          "id": 304
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-monoprotein-sterilised-suhoj-korm-dlya-sterilizovannyh-koshek-s-utkoj-1-5-kg-1147-1027904/",
+          "status": "skipped",
+          "name": "Monge Monoprotein Sterilised Сухой корм для стерилизованных кошек, с уткой",
+          "id": 305
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-sterilized-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-starshe-12-mesyatsev-s-indejkoj-i-yagnenkom-350-gr-100709-1070056/",
+          "status": "skipped",
+          "name": "Grandin Holistic Health Privilege Sterilized Сухой корм беззерновой для стерилизованных кошек и кастрированных котов старше 12 месяцев, с индейкой и ягненком, 350 гр",
+          "id": 251
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-author-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-so-svezhim-myasom-kuritsy-1-5-kg-87300-1061424/",
+          "status": "skipped",
+          "name": "Ownat Author Сухой корм беззерновой для стерилизованных кошек, со свежим мясом курицы",
+          "id": 253
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-suhoj-korm-dlya-koshek-starshe-7-let-s-vysokim-soderzhaniem-indejki-400-gr-982-1016697/",
+          "status": "loaded",
+          "id": 430,
+          "name": "PRO PLAN Сухой корм для кошек старше 7 лет, с высоким содержанием индейки, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-senior-suhoj-korm-dlya-koshek-starshe-7-let-s-indejkoj-i-kuritsej-400-gr-92825-1064850/",
+          "status": "skipped",
+          "name": "Mealfeel Senior Сухой корм для кошек старше 7 лет, с индейкой и курицей, 400 гр",
+          "id": 307
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-moderate-calorie-gim35-s-o-suhoj-dieticheskij-korm-dlya-koshek-pri-narushenii-pishchevareniya-2-kg-3095-1003549/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Moderate Calorie Сухой диетический корм для нормализации работы пищеварительной системы у кошек, 350 гр",
+          "id": 235
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-kitten-36-second-age-suhoj-korm-dlya-kotyat-v-vozraste-ot-4-do-12-mesyatsev-2-kg-1019-1002589/",
+          "status": "skipped",
+          "name": "Royal Canin Kitten 36 Second Age Сухой корм для котят в возрасте от 4 до 12 месяцев, 300 гр",
+          "id": 308
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-classic-suhoj-korm-dlya-koshek-ezhednevnaya-zabota-s-kuritsej-1-5-kg-1187-1050748/",
+          "status": "skipped",
+          "name": "Ownat Classic Daily Care Сухой корм для кошек, с курицей, 400 гр",
+          "id": 309
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-delicate-digestion-suhoj-korm-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-vysokim-soderzhaniem-indejki-3-kg-87394-1000006/",
+          "status": "loaded",
+          "id": 431,
+          "name": "PRO PLAN Delicate Digestion Сухой корм для взрослых кошек с чувствительным пищеварением, с высоким содержанием индейки, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-senior-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-starshe-7-let-s-indejkoj-400-gr-90956-1063646/",
+          "status": "loaded",
+          "id": 432,
+          "name": "Wellkiss Senior Sterilized Сухой корм для стерилизованных кошек старше 7 лет, с индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-renal-suhoj-dieticheskij-korm-dlya-koshek-pri-pochechnoj-nedostatochnosti-s-kuritsej-400-gr-3140-1043169/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Renal Сухой диетический корм для кошек при почечной недостаточности, с курицей, 400 гр",
+          "id": 237
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-exigent-35-30-savour-suhoj-korm-dlya-koshek-priveredlivyh-k-vkusu-produkta-2-kg-1009-1000718/",
+          "status": "loaded",
+          "id": 433,
+          "name": "Royal Canin Exigent 35/30 Savour Сухой корм для кошек привередливых к вкусу продукта, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-care-renal-suhoj-korm-dlya-vzroslyh-koshek-s-hronicheskoj-pochechnoj-nedostatochnostyu-s-kuritsej-1-5-kg-1192-1053530/",
+          "status": "skipped",
+          "name": "Ownat Adult Care Renal Сухой корм для взрослых кошек с хронической почечной недостаточностью, с курицей",
+          "id": 239
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-monoproteinovyj-dlya-koshek-s-indejkoj-400-gr-94412-1066105/",
+          "status": "loaded",
+          "id": 434,
+          "name": "Mealfeel Care Nutrition Сухой корм монопротеиновый для кошек, с индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-senior-sterilized-suhoj-korm-bezzernovoj-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-starshe-7-let-s-yagnenkom-i-krolikom-350-gr-100715-1070066/",
+          "status": "skipped",
+          "name": "Grandin Holistic Health Privilege Senior Sterilized Сухой корм беззерновой для стерилизованных кошек и кастрированных котов старше 7 лет, с ягненком и кроликом, 350 гр",
+          "id": 257
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-wow-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-s-tsyplenkom-1-5-kg-1235-1053732/",
+          "status": "loaded",
+          "id": 435,
+          "name": "AlphaPet WOW Сухой корм для взрослых стерилизованных кошек, с цыпленком, 350 гр",
+          "species": "cat",
+          "weight_g": 350,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-adult-renal-plus-suhoj-korm-dlya-podderzhaniya-zdorovya-pochek-u-sterilizovannyh-koshek-s-krolikom-400-gr-87396-1003946/",
+          "status": "loaded",
+          "id": 436,
+          "name": "PRO PLAN Sterilised Adult Renal Plus Сухой корм для поддержания здоровья почек у стерилизованных кошек, с кроликом, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-monoprotein-sterilised-trout-suhoj-korm-dlya-sterilizovannyh-koshek-s-forelyu-1-5-kg-1153-1030464/",
+          "status": "loaded",
+          "id": 437,
+          "name": "Monge Monoprotein Sterilised Trout Сухой корм для стерилизованных кошек, с форелью",
+          "species": "cat",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-british-shorthair-36-adult-suhoj-korm-dlya-vzroslyh-koshek-porody-britanskaya-korotkosherstnaya-10-kg-1016-1001782/",
+          "status": "loaded",
+          "id": 438,
+          "name": "Royal Canin British Shorthair 36 Adult Сухой корм для взрослых кошек породы британская короткошерстная, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-kitten-suhoj-korm-dlya-kotyat-s-kuritsej-400-gr-90958-1063648/",
+          "status": "loaded",
+          "id": 439,
+          "name": "Wellkiss Kitten Сухой корм для котят, с курицей, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-kitten-classic-suhoj-korm-dlya-kotyat-s-kuritsej-1-5-kg-1189-1050750/",
+          "status": "loaded",
+          "id": 440,
+          "name": "Ownat Kitten Classic Сухой корм для котят, с курицей, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-senior-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-starshe-7-let-s-seldyu-i-lososem-400-gr-1123-1064848/",
+          "status": "loaded",
+          "id": 441,
+          "name": "Mealfeel Senior Sterilized Сухой корм для стерилизованных кошек старше 7 лет, с сельдью и лососем, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-sensitive-suhoj-korm-bezzernovoj-dlya-koshek-s-chuvstvitelnym-pishchevareniem-starshe-12-mesyatsev-s-beloj-ryboj-350-gr-100711-1070058/",
+          "status": "loaded",
+          "id": 442,
+          "name": "Grandin Holistic Health Privilege Sensitive Сухой корм беззерновой для кошек с чувствительным пищеварением старше 12 месяцев, с белой рыбой, 350 гр",
+          "species": "cat",
+          "weight_g": 350,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-indoor-suhoj-korm-dlya-vzroslyh-domashnih-koshek-chetyre-vida-myasa-400-gr-1177-1040172/",
+          "status": "loaded",
+          "id": 443,
+          "name": "GRANDORF Holistic Adult Indoor Сухой корм для взрослых домашних кошек, четыре вида мяса, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hypoallergenic-suhoj-korm-dlya-koshek-s-pishchevoj-allergiej-350-gr-3092-1063057/",
+          "status": "skipped",
+          "name": "Royal Canin Hypoallergenic Сухой корм для кошек с пищевой аллергией, 350 гр",
+          "id": 241
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-neutered-satiety-balance-suhoj-korm-dlya-sterilizovannyh-koshek-i-kastrirovannyh-kotov-1-5-kg-3105-1030526/",
+          "status": "loaded",
+          "id": 444,
+          "name": "Royal Canin Neutered Satiety Balance Сухой корм для стерилизованных кошек и кастрированных котов, 300 гр",
+          "species": "cat",
+          "weight_g": 300,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-struvite-management-suhoj-dieticheskij-korm-dlya-koshek-pri-mochekamennoj-bolezni-s-kuritsej-400-gr-3146-1043175/",
+          "status": "loaded",
+          "id": 445,
+          "name": "Farmina Vet Life Cat Struvite Management диетический сухой корм для кошек при МКБ с курицей",
+          "species": "cat",
+          "weight_g": 5000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-delicate-digestion-suhoj-korm-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-chuvstvitelnym-pishchevareniem-s-kuritsej-400-gr-89935-1030234/",
+          "status": "loaded",
+          "id": 446,
+          "name": "PRO PLAN Sterilised Delicate Digestion Сухой корм для взрослых стерилизованных кошек и кастрированных котов с чувствительным пищеварением, с курицей, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-large-breeds-suhoj-korm-dlya-koshek-krupnyh-porod-s-indejkoj-i-kuritsej-400-gr-92821-1064846/",
+          "status": "loaded",
+          "id": 447,
+          "name": "Mealfeel Large Breeds Сухой корм для кошек крупных пород, с индейкой и курицей, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-suhoj-korm-dlya-sterilizovannyh-koshek-starshe-7-let-s-ryboj-3-kg-95772-1066744/",
+          "status": "loaded",
+          "id": 448,
+          "name": "Ownat Сухой корм для стерилизованных кошек старше 7 лет, с рыбой",
+          "species": "cat",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-bezzernovoj-dlya-koshek-s-yagnenkom-400-gr-94418-1066111/",
+          "status": "loaded",
+          "id": 449,
+          "name": "Mealfeel Care Nutrition Сухой корм беззерновой для кошек, с ягненком, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-sterilized-grain-free-prime-suhoj-korm-dlya-sterilizovannyh-koshek-s-ryboj-1-kg-87301-1061427/",
+          "status": "loaded",
+          "id": 450,
+          "name": "Ownat Adult Sterilized Grain Free Prime Сухой корм для стерилизованных кошек, с рыбой",
+          "species": "cat",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-nd-prime-suhoj-korm-dlya-koshek-s-yagnenkom-i-chernikoj-300-gr-1196-1043141/",
+          "status": "loaded",
+          "id": 451,
+          "name": "Farmina ND Prime Сухой корм для кошек, с ягненком и черникой",
+          "species": "cat",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-ultra-mature-sterilized-suhoj-korm-dlya-sterilizovannyh-koshek-starshe-7-let-s-kuritsej-i-indejkoj-400-gr-97871-1067604/",
+          "status": "loaded",
+          "id": 452,
+          "name": "Ownat Ultra Mature Sterilized Сухой корм для стерилизованных кошек старше 7 лет, с курицей и индейкой, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-vet-hypoallergenic-suhoj-korm-dlya-koshek-s-pishchevoj-allergiej-ili-neperenosimostyu-s-krolikom-400-gr-96776-1066966/",
+          "status": "loaded",
+          "id": 453,
+          "name": "GRANDORF Vet Hypoallergenic Сухой корм для кошек с пищевой аллергией или непереносимостью, с кроликом, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-monoprotein-sterilised-beef-suhoj-korm-dlya-sterilizovannyh-koshek-s-govyadinoj-1-5kg-1163-1045492/",
+          "status": "loaded",
+          "id": 454,
+          "name": "Monge Monoprotein Sterilised Beef Сухой корм для стерилизованных кошек, с говядиной",
+          "species": "cat",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-urinary-suhoj-korm-dlya-profilaktiki-mochekamennoj-bolezni-u-koshek-s-kuritsej-1-5-kg-1145-1028267/",
+          "status": "loaded",
+          "id": 455,
+          "name": "Monge Urinary Сухой корм для профилактики мочекаменной болезни у кошек, с курицей",
+          "species": "cat",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-care-nutrition-suhoj-korm-monoproteinovyj-dlya-koshek-s-lososem-400-gr-94410-1066103/",
+          "status": "loaded",
+          "id": 456,
+          "name": "Mealfeel Care Nutrition Сухой корм монопротеиновый для кошек, с лососем, 400 гр",
+          "species": "cat",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sterilised-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-v-souse-85-gr-626-1011129/",
+          "status": "skipped",
+          "name": "Royal Canin Sterilised Влажный корм (пауч) для стерилизованных кошек, в соусе, 85 гр",
+          "id": 185
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-vlazhnyj-korm-pauch-dlya-podderzhaniya-pishchevaritelnoj-sistemy-u-koshek-85-gr-87618-1061697/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Влажный корм (пауч) для поддержания пищеварительной системы у кошек, 85 гр",
+          "id": 186
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sterilised-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-v-zhele-85-gr-625-1008824/",
+          "status": "skipped",
+          "name": "Royal Canin Sterilised Влажный корм (пауч) для стерилизованных кошек, в желе, 85 гр",
+          "id": 187
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-kuritsej-v-souse-85-gr-88917-1009314/",
+          "status": "loaded",
+          "id": 457,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек, с курицей в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-urinary-s-o-vlazhnyj-korm-pauch-dlya-koshek-pri-zabolevaniyah-distalnogo-otdela-mochevydelitelnoj-sistemy-85-gr-94237-1065958/",
+          "status": "skipped",
+          "name": "Royal Canin Urinary S/O Влажный корм (пауч) для кошек при заболеваниях дистального отдела мочевыделительной системы, 85 гр",
+          "id": 189
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-gastrointestinal-vlazhnyj-korm-konservy-dlya-koshek-pri-zabolevaniyah-zhkt-85-gr-3064-1043228/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Gastrointestinal Влажный корм (консервы) для кошек при заболеваниях ЖКТ, 85 гр",
+          "id": 190
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-digestive-care-vlazhnyj-korm-pauch-dlya-koshek-s-chuvstvitelnym-pishchevareniem-tonkie-lomtiki-v-souse-85-gr-619-1005279/",
+          "status": "skipped",
+          "name": "Royal Canin Digestive Care Влажный корм (пауч) для кошек с чувствительным пищеварением, тонкие ломтики в соусе, 85 гр",
+          "id": 191
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-tunets-v-zhele-80-gr-92797-1064817/",
+          "status": "skipped",
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, тунец в желе, 80 гр",
+          "id": 192
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-govyadinoj-v-souse-85-gr-598-1009313/",
+          "status": "loaded",
+          "id": 458,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек, с говядиной в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-moderate-calorie-vlazhnyj-korm-pauch-dieticheskij-korm-dlya-koshek-pri-narushenii-pishchevareniya-85-gr-94238-1065959/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Moderate Calorie Влажный корм (пауч) диетический корм для кошек при нарушении пищеварения, 85 гр",
+          "id": 194
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-kitten-vlazhnyj-korm-pauch-dlya-kotyat-ot-4-do-12-mesyatsev-kusochki-v-souse-85-gr-614-1000888/",
+          "status": "skipped",
+          "name": "Royal Canin Kitten Влажный корм (пауч) для котят от 4 до 12 месяцев, кусочки в соусе, 85 гр",
+          "id": 195
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-renal-vlazhnyj-korm-pauch-dlya-podderzhaniya-funktsii-pochek-u-koshek-kuritsa-85-gr-94707-1066273/",
+          "status": "skipped",
+          "name": "Royal Canin Renal Влажный корм (пауч) для поддержания функции почек у кошек, курица, 85 гр",
+          "id": 196
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-urinary-care-vlazhnyj-korm-pauch-dlya-podderzhaniya-zdorovya-mochevydelitelnoj-sistemy-u-vzroslyh-koshek-v-souse-85-gr-94706-1066272/",
+          "status": "skipped",
+          "name": "Royal Canin Urinary Care Влажный корм (пауч) для поддержания здоровья мочевыделительной системы у взрослых кошек, в соусе, 85 гр",
+          "id": 197
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-krolikom-v-souse-85-gr-90856-1063613/",
+          "status": "loaded",
+          "id": 459,
+          "name": "PRO PLAN Sterilised MAINTENANCE Влажный корм (пауч) для взрослых стерилизованных кошек, с кроликом в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-delicate-digestion-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-indejkoj-v-souse-85-gr-596-1009310/",
+          "status": "loaded",
+          "id": 460,
+          "name": "PRO PLAN Delicate Digestion Влажный корм (пауч) для взрослых кошек с чувствительным пищеварением, с индейкой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-utkoj-v-souse-85-gr-88925-1020145/",
+          "status": "loaded",
+          "id": 461,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек и кастрированных котов, с уткой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sensitivity-control-feline-vlazhnyj-korm-pauch-dlya-koshek-tsyplenok-i-ris-85-gr-3027-1037289/",
+          "status": "skipped",
+          "name": "Royal Canin Sensitivity Control Feline Влажный корм (пауч) для кошек, цыпленок и рис, 85 гр",
+          "id": 201
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-indoor-sterilised-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-zhivushchih-v-pomeshchenii-85-gr-87616-1061695/",
+          "status": "skipped",
+          "name": "Royal Canin Indoor Sterilised Влажный корм (пауч) для стерилизованных кошек, живущих в помещении, 85 гр",
+          "id": 202
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-wow-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-indejkoj-v-souse-85-gr-99362-1068749/",
+          "status": "skipped",
+          "name": "AlphaPet WOW Влажный корм (пауч) для взрослых стерилизованных кошек, с индейкой в соусе, 85 гр",
+          "id": 203
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-okeanicheskoj-ryboj-v-souse-85-gr-88927-1020143/",
+          "status": "loaded",
+          "id": 462,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек и кастрированных котов, с океанической рыбой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-koshek-kuritsa-v-nezhnom-zhele-85-gr-92806-1064828/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для кошек, курица в нежном желе, 85 гр",
+          "id": 205
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-tunets-s-toppingom-iz-krevetok-v-zhele-80-gr-92796-1064816/",
+          "status": "skipped",
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, тунец с топпингом из креветок в желе, 80 гр",
+          "id": 206
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-lososem-v-souse-85-gr-90857-1063614/",
+          "status": "loaded",
+          "id": 463,
+          "name": "PRO PLAN Sterilised MAINTENANCE Влажный корм (пауч) для взрослых стерилизованных кошек, с лососем в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-wow-vlazhnyj-korm-pauch-dlya-koshek-s-chuvstvitelnym-pishchevareniem-krolik-s-potroshkami-v-souse-85-gr-99360-1068747/",
+          "status": "skipped",
+          "name": "AlphaPet WOW Влажный корм (пауч) для кошек с чувствительным пищеварением, кролик с потрошками в соусе, 85 гр",
+          "id": 208
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-indejkoj-v-zhele-85-gr-88926-1016932/",
+          "status": "loaded",
+          "id": 464,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек и кастрированных котов, с индейкой в желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-wow-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-s-tsyplenkom-v-souse-85-gr-99361-1068748/",
+          "status": "skipped",
+          "name": "AlphaPet WOW Влажный корм (пауч) для взрослых кошек, с цыпленком в соусе, 85 гр",
+          "id": 210
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-indejkoj-v-souse-85-gr-90855-1063612/",
+          "status": "loaded",
+          "id": 465,
+          "name": "PRO PLAN Sterilised MAINTENANCE Влажный корм (пауч) для взрослых стерилизованных кошек, с индейкой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-renal-vlazhnyj-korm-konservy-dlya-koshek-pri-pochechnoj-nedostatochnosti-s-kuritsej-85-gr-3065-1043229/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Renal Влажный корм (консервы) для кошек при почечной недостаточности, с курицей, 85 гр",
+          "id": 212
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-veterinary-diets-vlazhnyj-korm-pauch-dlya-koshek-pri-rasstrojstvah-pishchevareniya-s-kuritsej-85-gr-94305-1066006/",
+          "status": "loaded",
+          "id": 466,
+          "name": "PRO PLAN Veterinary Diets Влажный корм (пауч) для кошек при расстройствах пищеварения, с курицей , 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-instinctive-vlazhnyj-korm-pauch-dlya-koshek-v-vozraste-ot-1-goda-do-7-let-melkie-kusochki-v-souse-85-gr-615-1000889/",
+          "status": "skipped",
+          "name": "Royal Canin Instinctive Влажный корм (пауч) для кошек в возрасте от 1 года до 7 лет, мелкие кусочки в соусе, 85 гр",
+          "id": 214
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-tunets-s-toppingom-iz-lososya-80-gr-92798-1064818/",
+          "status": "skipped",
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, тунец с топпингом из лосося, 80 гр",
+          "id": 247
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-kitten-vlazhnyj-korm-pauch-dlya-kotyat-kusochki-s-yagnenkom-v-souse-85-gr-554-1053559/",
+          "status": "skipped",
+          "name": "Mealfeel Kitten Влажный корм (пауч) для котят, кусочки с ягненком в соусе, 85 гр",
+          "id": 248
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-multipak-dlya-vzroslyh-sterilizovannyh-koshek-s-govyadinoj-v-souse-indejkoj-v-zhele-okeanicheskoj-ryboj-v-souse-10h85-gr-608-1056212/",
+          "status": "loaded",
+          "id": 467,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (мультипак) для взрослых стерилизованных кошек, с говядиной в соусе, индейкой в желе, океанической рыбой в соусе, 10х85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-kotyat-tunets-v-nezhnom-zhele-85-gr-92808-1064830/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для котят, тунец в нежном желе, 85 гр",
+          "id": 321
+        },
+        {
+          "url": "https://4lapy.ru/product/inaba-ciao-vlazhnyj-korm-pauch-dlya-koshek-tunets-maguro-i-tunets-katsuo-60-gr-89053-1051176/",
+          "status": "skipped",
+          "name": "INABA CIAO Влажный корм (пауч) для кошек, тунец магуро и тунец кацуо, 60 гр",
+          "id": 322
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-delicate-digestion-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-yagnenkom-v-souse-85-gr-88930-1020142/",
+          "status": "loaded",
+          "id": 468,
+          "name": "PRO PLAN Delicate Digestion Влажный корм (пауч) для взрослых кошек с чувствительным пищеварением, с ягненком в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-kitten-vlazhnyj-korm-pauch-dlya-kotyat-kusochki-s-domashnej-ptitsej-v-souse-85-gr-552-1053557/",
+          "status": "skipped",
+          "name": "Mealfeel Kitten Влажный корм (пауч) для котят, кусочки с домашней птицей в соусе, 85 гр",
+          "id": 252
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-kotyat-kusochki-s-kuritsej-v-souse-85-gr-757-1054669/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для котят, кусочки с курицей в соусе, 85 гр",
+          "id": 254
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-kitten-vlazhnyj-korm-pauch-dlya-kotyat-ot-4-do-12-mesyatsev-kusochki-v-zhele-85-gr-622-1008817/",
+          "status": "skipped",
+          "name": "Royal Canin Kitten Влажный корм (пауч) для котят от 4 до 12 месяцев, кусочки в желе, 85 гр",
+          "id": 324
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-dlya-koshek-s-chuvstvitelnym-pishchevareniem-s-yagnenkom-i-brusnikoj-v-souse-80-gr-527-1056702/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм для кошек с чувствительным пищеварением, с ягненком и брусникой в соусе, 80 гр",
+          "id": 325
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hairball-care-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-85-gr-95626-1066648/",
+          "status": "skipped",
+          "name": "Royal Canin Hairball Care Влажный корм (пауч) для взрослых кошек, 85 гр",
+          "id": 326
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-dlya-koshek-s-chuvstvitelnym-pishchevareniem-s-krolikom-i-chernikoj-v-souse-80-gr-526-1056701/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм для кошек с чувствительным пищеварением, с кроликом и черникой в соусе, 80 гр",
+          "id": 327
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-veterinary-diets-vlazhnyj-korm-pauch-dlya-koshek-pri-rasstrojstvah-pishchevareniya-s-lososem-85-gr-94304-1066005/",
+          "status": "loaded",
+          "id": 469,
+          "name": "PRO PLAN Veterinary Diets Влажный корм (пауч) для кошек при расстройствах пищеварения, с лососем, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-ageing-12-vlazhnyj-korm-pauch-dlya-pozhilyh-koshek-starshe-12-let-kusochki-v-souse-85-gr-91848-1064354/",
+          "status": "skipped",
+          "name": "Royal Canin Ageing 12+ Влажный корм (пауч) для пожилых кошек старше 12 лет, кусочки в соусе, 85 гр",
+          "id": 255
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-indoor-sterilised-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-ot-1-do-7-let-v-zhele-85-gr-93541-1065217/",
+          "status": "skipped",
+          "name": "Royal Canin Indoor Sterilised Влажный корм (пауч) для стерилизованных кошек от 1 до 7 лет, в желе, 85 гр",
+          "id": 238
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-indejka-v-zhele-100-gr-758-1054945/",
+          "status": "skipped",
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, индейка в желе, 100 гр",
+          "id": 256
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-renal-vlazhnyj-korm-pauch-dlya-podderzhaniya-funktsii-pochek-u-koshek-govyadina-85-gr-94708-1066274/",
+          "status": "skipped",
+          "name": "Royal Canin Renal Влажный корм (пауч) для поддержания функции почек у кошек, говядина, 85 гр",
+          "id": 240
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-instinctive-vlazhnyj-korm-pauch-dlya-koshek-v-vozraste-ot-1-goda-do-7-let-melkie-kusochki-v-zhele-85-gr-618-1004484/",
+          "status": "skipped",
+          "name": "Royal Canin Instinctive Влажный корм (пауч) для кошек в возрасте от 1 года до 7 лет, мелкие кусочки в желе, 85 гр",
+          "id": 329
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-kitten-vlazhnyj-korm-pauch-dlya-kotyat-kuritsa-s-serdtsem-i-pechenyu-v-souse-85-gr-94867-1066367/",
+          "status": "skipped",
+          "name": "Mealfeel Kitten Влажный корм (пауч) для котят, курица с сердцем и печенью в соусе, 85 гр",
+          "id": 330
+        },
+        {
+          "url": "https://4lapy.ru/product/inaba-ciao-vlazhnyj-korm-pauch-dlya-koshek-tunets-maguro-i-tunets-katsuo-s-semgoj-60-gr-89834-1051181/",
+          "status": "skipped",
+          "name": "INABA CIAO Влажный корм (пауч) для кошек, тунец магуро и тунец кацуо с семгой, 60 гр",
+          "id": 331
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-i-kastrirovannyh-kotov-s-okeanicheskoj-ryboj-v-zhele-85-gr-88928-1016933/",
+          "status": "loaded",
+          "id": 470,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (пауч) для взрослых стерилизованных кошек и кастрированных котов, с океанической рыбой в желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-multipak-dlya-vzroslyh-sterilizovannyh-koshek-s-utkoj-v-souse-kuritsej-v-souse-10h85-gr-609-1056213/",
+          "status": "loaded",
+          "id": 471,
+          "name": "PRO PLAN Sterilised Maintenance Влажный корм (мультипак) для взрослых стерилизованных кошек, с уткой в соусе, курицей в соусе, 10х85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-sterilized-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-kusochki-s-indejkoj-v-souse-85-gr-468-1053069/",
+          "status": "skipped",
+          "name": "Wellkiss Sterilized Влажный корм (пауч) для стерилизованных кошек, кусочки с индейкой в соусе, 85 гр",
+          "id": 334
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-delicate-digestion-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-okeanicheskoj-ryboj-v-souse-85-gr-88929-1009311/",
+          "status": "loaded",
+          "id": 472,
+          "name": "PRO PLAN Delicate Digestion Влажный корм (пауч) для взрослых кошек с чувствительным пищеварением, с океанической рыбой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-kusochki-s-yagnenkom-v-souse-85-gr-754-1054666/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для стерилизованных кошек, кусочки с ягненком в соусе, 85 гр",
+          "id": 336
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-kitten-vlazhnyj-korm-pauch-dlya-kotyat-s-kuritsej-tuntsom-i-tykvoj-v-souse-85-gr-94870-1066370/",
+          "status": "skipped",
+          "name": "Mealfeel Kitten Влажный корм (пауч) для котят, с курицей, тунцом и тыквой в соусе, 85 гр",
+          "id": 337
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-sterilized-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-kusochki-s-yagnenkom-v-souse-85-gr-469-1053070/",
+          "status": "skipped",
+          "name": "Wellkiss Sterilized Влажный корм (пауч) для стерилизованных кошек, кусочки с ягненком в соусе, 85 гр",
+          "id": 338
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-blister-dlya-vzroslyh-sterilizovannyh-koshek-s-anchousami-i-krevetkami-v-souse-80-gr-87588-1061641/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм (блистер) для взрослых стерилизованных кошек, с анчоусами и креветками в соусе, 80 гр",
+          "id": 339
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-intense-beauty-care-vlazhnyj-korm-pauch-dlya-podderzhaniya-zdorovya-kozhi-i-bleska-shersti-koshek-tonkie-lomtiki-v-souse-85-gr-616-1000890/",
+          "status": "skipped",
+          "name": "Royal Canin Intense Beauty Care Влажный корм (пауч) для поддержания здоровья кожи и блеска шерсти кошек, тонкие ломтики в соусе, 85 гр",
+          "id": 340
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-dlya-koshek-s-chuvstvitelnym-pishchevareniem-s-utkoj-i-klyukvoj-v-souse-80-gr-528-1056703/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм для кошек с чувствительным пищеварением, с уткой и клюквой в соусе, 80 гр",
+          "id": 341
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-tunets-s-toppingom-iz-kuritsy-80-gr-92799-1064819/",
+          "status": "loaded",
+          "id": 473,
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, тунец с топпингом из курицы, 80 гр",
+          "species": "cat",
+          "weight_g": 80,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-konservy-dlya-koshek-file-tuntsa-s-toppingom-iz-anchousov-v-zhele-80-gr-92801-1064821/",
+          "status": "loaded",
+          "id": 474,
+          "name": "Grandin Влажный корм (консервы) для кошек, филе тунца с топпингом из анчоусов в желе, 80 гр",
+          "species": "cat",
+          "weight_g": 80,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-maine-coon-adult-vlazhnyj-korm-pauch-dlya-koshek-porody-mejn-kun-starshe-15-mesyatsev-85-gr-628-1016216/",
+          "status": "loaded",
+          "id": 475,
+          "name": "Royal Canin Maine Coon Adult Влажный корм (пауч) для кошек породы мейн-кун старше 15 месяцев, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-sterilized-vlazhnyj-korm-pauch-dlya-sterilizovannyh-koshek-tunets-v-souse-85-gr-94869-1066369/",
+          "status": "loaded",
+          "id": 476,
+          "name": "Mealfeel Sterilized Влажный корм (пауч) для стерилизованных кошек, тунец в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-diabetic-vlazhnyj-korm-konservy-dlya-koshek-pri-saharnom-diabete-85-gr-89251-1062848/",
+          "status": "loaded",
+          "id": 477,
+          "name": "Farmina Vet Life Diabetic Влажный корм (консервы) для кошек при сахарном диабете, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-healthy-start-vlazhnyj-korm-pauch-dlya-kotyat-s-indejkoj-v-souse-85-gr-599-1009976/",
+          "status": "loaded",
+          "id": 478,
+          "name": "PRO PLAN Healthy Start Влажный корм (пауч) для котят, с индейкой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-starshe-7-let-s-indejkoj-v-souse-85-gr-603-1026174/",
+          "status": "loaded",
+          "id": 479,
+          "name": "PRO PLAN MAINTENANCE Влажный корм (пауч) для взрослых кошек старше 7 лет, с индейкой в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-delicate-digestion-vlazhnyj-korm-multipak-dlya-vzroslyh-koshek-s-chuvstvitelnym-pishchevareniem-s-indejkoj-v-souse-yagnenkom-v-souse-10h85-gr-83271-1059595/",
+          "status": "loaded",
+          "id": 480,
+          "name": "PRO PLAN Delicate Digestion Влажный корм (мультипак) для взрослых кошек с чувствительным пищеварением, с индейкой в соусе, ягненком в соусе, 10х85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-blister-dlya-vzroslyh-sterilizovannyh-koshek-pashtet-s-krolikom-80-gr-92256-1064483/",
+          "status": "loaded",
+          "id": 481,
+          "name": "AlphaPet Влажный корм (блистер) для взрослых стерилизованных кошек, паштет с кроликом, 80 гр",
+          "species": "cat",
+          "weight_g": 80,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-sterilized-vlazhnyj-korm-pauch-dlya-kontrolya-vesa-u-sterilizovannyh-koshek-kuritsa-v-souse-s-kusochkami-file-85-gr-557-1053562/",
+          "status": "loaded",
+          "id": 482,
+          "name": "Mealfeel Sterilized Влажный корм (пауч) для контроля веса у стерилизованных кошек, курица в соусе с кусочками филе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-koshek-tunets-v-nezhnom-zhele-85-gr-92804-1064826/",
+          "status": "loaded",
+          "id": 483,
+          "name": "Grandin Влажный корм (пауч) для кошек, тунец в нежном желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-koshek-kuritsa-s-makrelyu-v-nezhnom-zhele-85-gr-92807-1064829/",
+          "status": "loaded",
+          "id": 484,
+          "name": "Grandin Влажный корм (пауч) для кошек, курица с макрелью в нежном желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-healthy-start-vlazhnyj-korm-multipak-dlya-kotyat-s-govyadinoj-v-souse-indejkoj-v-souse-i-kuritsej-v-zhele-10x85-gr-83270-1059594/",
+          "status": "loaded",
+          "id": 485,
+          "name": "PRO PLAN Healthy Start Влажный корм (мультипак) для котят, с говядиной в соусе, индейкой в соусе и курицей в желе, 10x85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-ageing-12-vlazhnyj-korm-pauch-dlya-pozhilyh-koshek-starshe-12-let-kusochki-v-zhele-85-gr-91847-1064353/",
+          "status": "loaded",
+          "id": 486,
+          "name": "Royal Canin Ageing 12+ Влажный корм (пауч) для пожилых кошек старше 12 лет, кусочки в желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-derma-care-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-dlya-zdorovya-kozhi-i-krasoty-shersti-s-treskoj-v-souse-85-gr-602-1026173/",
+          "status": "loaded",
+          "id": 487,
+          "name": "PRO PLAN DERMA CARE Влажный корм (пауч) для взрослых кошек для здоровья кожи и красоты шерсти, с треской в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-koshek-kusochki-s-govyadinoj-v-souse-85-gr-755-1054667/",
+          "status": "loaded",
+          "id": 488,
+          "name": "Grandin Влажный корм (пауч) для кошек, кусочки с говядиной в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-indejka-v-souse-100-gr-89036-1054947/",
+          "status": "loaded",
+          "id": 489,
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, индейка в соусе, 100 гр",
+          "species": "cat",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/mealfeel-sterilized-vlazhnyj-korm-pauch-dlya-kontrolya-vesa-u-sterilizovannyh-koshek-kusochki-s-govyadinoj-v-souse-85-gr-558-1053563/",
+          "status": "loaded",
+          "id": 490,
+          "name": "Mealfeel Sterilized Влажный корм (пауч) для контроля веса у стерилизованных кошек, кусочки с говядиной в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-indoor-sterilised-7-vlazhnyj-korm-pauch-dlya-vzroslyh-kastrirovannyh-i-sterilizovannyh-koshek-starshe-7-let-zhivushchih-v-pomeshchenii-kusochki-v-souse-85-gr-91850-1064356/",
+          "status": "loaded",
+          "id": 491,
+          "name": "Royal Canin Indoor Sterilised 7+ Влажный корм (пауч) для взрослых кастрированных и стерилизованных кошек старше 7 лет, живущих в помещении, кусочки в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/inaba-ciao-vlazhnyj-korm-pauch-dlya-koshek-tunets-maguro-i-tunets-katsuo-s-paltusom-60-gr-89817-1049540/",
+          "status": "loaded",
+          "id": 492,
+          "name": "INABA CIAO Влажный корм (пауч) для кошек, тунец магуро и тунец кацуо с палтусом, 60 гр",
+          "species": "cat",
+          "weight_g": 60,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sterilised-maintenance-vlazhnyj-korm-pauch-dlya-vzroslyh-sterilizovannyh-koshek-s-govyadinoj-v-zhele-85-gr-90854-1063611/",
+          "status": "loaded",
+          "id": 493,
+          "name": "PRO PLAN Sterilised MAINTENANCE Влажный корм (пауч) для взрослых стерилизованных кошек, с говядиной в желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-healthy-start-vlazhnyj-korm-pauch-dlya-kotyat-s-govyadinoj-v-souse-85-gr-88939-1020144/",
+          "status": "loaded",
+          "id": 494,
+          "name": "PRO PLAN HEALTHY START Влажный корм (пауч) для котят, с говядиной в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-indoor-vlazhnyj-korm-pauch-dlya-vzroslyh-koshek-zhivushchih-doma-s-lososem-v-souse-85-gr-88936-1009312/",
+          "status": "loaded",
+          "id": 495,
+          "name": "PRO PLAN Indoor Влажный корм (пауч) для взрослых кошек живущих дома, с лососем в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/inaba-ciao-vlazhnyj-korm-pauch-dlya-koshek-tunets-maguro-i-tunets-katsuo-s-krabom-surimi-60-gr-89054-1049539/",
+          "status": "loaded",
+          "id": 496,
+          "name": "INABA CIAO Влажный корм (пауч) для кошек, тунец магуро и тунец кацуо с крабом сурими, 60 гр",
+          "species": "cat",
+          "weight_g": 60,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-vlazhnyj-korm-konservy-dlya-vzroslyh-koshek-kuritsa-v-zhele-100-gr-89035-1054946/",
+          "status": "loaded",
+          "id": 497,
+          "name": "Grandin Holistic Влажный корм (консервы) для взрослых кошек, курица в желе, 100 гр",
+          "species": "cat",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-convalescence-vlazhnyj-korm-konservy-dlya-koshek-v-period-vosstanovleniya-i-vyzdorovleniya-85-gr-3067-1046541/",
+          "status": "loaded",
+          "id": 498,
+          "name": "Farmina Vet Life Convalescence Влажный корм (консервы) для кошек в период восстановления и выздоровления, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/wellkiss-kitten-vlazhnyj-korm-pauch-dlya-kotyat-s-yagnenkom-i-govyadinoj-v-souse-85-gr-472-1053574/",
+          "status": "loaded",
+          "id": 499,
+          "name": "Wellkiss Kitten Влажный корм (пауч) для котят, с ягненком и говядиной в соусе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-healthy-start-vlazhnyj-korm-pauch-dlya-kotyat-s-kuritsej-v-zhele-85-gr-88938-1016929/",
+          "status": "loaded",
+          "id": 500,
+          "name": "PRO PLAN Healthy Start Влажный корм (пауч) для котят, с курицей в желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-british-shorthair-adult-vlazhnyj-korm-pauch-dlya-koshek-britanskoj-korotkosherstnoj-porody-starshe-12-mesyatsev-85-gr-627-1016215/",
+          "status": "loaded",
+          "id": 501,
+          "name": "Royal Canin British Shorthair Adult Влажный корм (пауч) для кошек британской короткошерстной породы старше 12 месяцев, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-koshek-tunets-s-makrelyu-v-nezhnom-zhele-85-gr-92803-1064825/",
+          "status": "loaded",
+          "id": 502,
+          "name": "Grandin Влажный корм (пауч) для кошек, тунец с макрелью в нежном желе, 85 гр",
+          "species": "cat",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hypoallergenic-suhoj-dieticheskij-korm-pri-pishchevoj-allergii-ili-pishchevoj-neperenosimosti-nekotoryh-ingredientov-u-koshek-2-kg-94334-1066026/",
+          "status": "skipped",
+          "name": "Royal Canin Hypoallergenic Сухой диетический корм при пищевой аллергии или пищевой непереносимости некоторых ингредиентов у кошек",
+          "id": 234
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-hypoallergenic-suhoj-gipoallergennyj-korm-dlya-sobak-vseh-porod-yagnenok-11-2-kg-2803-1049893/",
+          "status": "skipped",
+          "name": "Grandin Hypoallergenic Сухой гипоаллергенный корм для собак всех пород, ягненок",
+          "id": 258
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-grain-free-hypoallergenic-suhoj-korm-gipoallergennyj-dlya-sobak-s-lososem-3-kg-2904-1056723/",
+          "status": "skipped",
+          "name": "Ownat Grain Free Hypoallergenic Сухой корм гипоаллергенный для собак, с лососем",
+          "id": 259
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-grain-free-suhoj-korm-bezzernovoj-dlya-vzroslyh-sobak-s-yagnenkom-3-kg-2887-1042254/",
+          "status": "skipped",
+          "name": "Ownat Adult Grain Free Сухой корм беззерновой для взрослых собак, с ягненком",
+          "id": 260
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-suhoj-korm-dlya-sobak-srednih-i-krupnyh-porod-s-yagnenkom-11-2-kg-2806-1051885/",
+          "status": "skipped",
+          "name": "Grandin Holistic Сухой корм для собак средних и крупных пород, с ягненком",
+          "id": 261
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-grain-free-suhoj-korm-bezzernovoj-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-i-kartofelem-3-kg-83038-1059383/",
+          "status": "skipped",
+          "name": "АВВА Grain Free Сухой корм беззерновой для взрослых собак всех пород, с ягнёнком и картофелем",
+          "id": 262
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-sensitive-adult-all-breeds-suhoj-korm-dlya-sobak-s-chuvstvitelnym-pishchevareniem-c-indejkoj-i-risom-12-kg-90978-1063639/",
+          "status": "skipped",
+          "name": "АВВА Sensitive Adult All Breeds Сухой корм для собак с чувствительным пищеварением, c индейкой и рисом",
+          "id": 263
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-natural-ingredients-suhoj-korm-dlya-vzroslyh-sobak-s-yagnenkom-i-risom-12-kg-2774-1042245/",
+          "status": "skipped",
+          "name": "АВВА Natural Ingredients Сухой корм для взрослых собак с ягненком и рисом",
+          "id": 264
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-mini-grain-free-suhoj-korm-bezzernovoj-dlya-sobak-melkih-porod-s-yagnenkom-1-kg-2886-1042253/",
+          "status": "skipped",
+          "name": "Ownat Mini Grain Free Сухой корм беззерновой для собак мелких пород, с ягненком, 400 гр",
+          "id": 265
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-fresh-meat-suhoj-korm-dlya-vzroslyh-sobak-vseh-porod-s-lososem-i-risom-3-kg-83040-1059385/",
+          "status": "skipped",
+          "name": "АВВА Fresh Meat Сухой корм для взрослых собак всех пород, с лососем и рисом",
+          "id": 266
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-suhoj-korm-dlya-sobak-vseh-porod-yagnenok-i-ris-3-kg-90971-1063632/",
+          "status": "skipped",
+          "name": "АВВА Adult Сухой корм для собак всех пород, ягненок и рис",
+          "id": 267
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-grain-free-just-suhoj-korm-bezzernovoj-dlya-sobak-s-lososem-i-moreproduktami-3-kg-2888-1042255/",
+          "status": "skipped",
+          "name": "Ownat Grain Free Just Сухой корм беззерновой для собак, с лососем и морепродуктами",
+          "id": 268
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-maxi-adult-ultra-suhoj-korm-dlya-sobak-krupnyh-porod-s-kuritsej-i-indejkoj-3-kg-2889-1042256/",
+          "status": "skipped",
+          "name": "Ownat Maxi Adult Ultra Сухой корм для собак крупных пород, с курицей и индейкой",
+          "id": 269
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-gastrointestinal-suhoj-dieticheskij-korm-dlya-sobak-pri-zabolevaniyah-zhkt-s-kuritsej-2-kg-3296-1043193/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Gastrointestinal Сухой диетический корм для собак, при заболеваниях ЖКТ, с курицей",
+          "id": 270
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-medium-maxi-suhoj-korm-dlya-vzroslyh-sobak-srednih-i-krupnyh-porod-s-yagnenkom-i-indejkoj-3-kg-2879-1040156/",
+          "status": "loaded",
+          "id": 503,
+          "name": "GRANDORF Holistic Adult Medium Maxi Сухой корм для собак средних и крупных пород, с ягненком и индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-classic-suhoj-korm-dlya-sobak-s-ryboj-4-kg-2898-1050747/",
+          "status": "skipped",
+          "name": "Ownat Adult Classic Сухой корм для собак, с рыбой",
+          "id": 272
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-grain-free-suhoj-korm-dlya-vzroslyh-sobak-s-utkoj-14-kg-2894-1044810/",
+          "status": "skipped",
+          "name": "Ownat Adult Grain Free Сухой корм для взрослых собак, с уткой",
+          "id": 273
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-fresh-meat-suhoj-korm-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-i-risom-3-kg-83042-1059387/",
+          "status": "skipped",
+          "name": "АВВА Fresh Meat Сухой корм для взрослых собак всех пород, с ягненком и рисом",
+          "id": 274
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-large-adult-suhoj-korm-dlya-sobak-krupnyh-porod-s-kuritsej-12-kg-90973-1063634/",
+          "status": "skipped",
+          "name": "АВВА Large Adult Сухой корм для собак крупных пород, с курицей",
+          "id": 275
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-ultrahypo-suhoj-dieticheskij-korm-dlya-sobak-gipoallergennyj-2-kg-3297-1043194/",
+          "status": "skipped",
+          "name": "Farmina Vet Life UltraHypo Сухой диетический корм для собак гипоаллергенный",
+          "id": 276
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-classic-suhoj-korm-dlya-sobak-s-utkoj-4-kg-2899-1050754/",
+          "status": "skipped",
+          "name": "Ownat Adult Classic Сухой корм для собак, с уткой",
+          "id": 277
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-mini-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-yagnenkom-i-indejkoj-1-kg-2866-1040154/",
+          "status": "loaded",
+          "id": 504,
+          "name": "GRANDORF Holistic Adult Mini Сухой корм для взрослых собак мелких пород, с ягненком и индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-all-breeds-hypoallergenic-suhoj-korm-dlya-vzroslyh-sobak-sklonnyh-k-allergicheskim-reaktsiyam-i-rasstrojstvam-pishchevareniya-s-lososem-i-tuntsom-2-5-kg-2809-1027883/",
+          "status": "skipped",
+          "name": "Monge All Breeds Hypoallergenic Сухой корм для взрослых собак, склонных к аллергическим реакциям и расстройствам пищеварения, с лососем и тунцом",
+          "id": 279
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-low-fat-suhoj-korm-dlya-sobak-melkih-porod-1-kg-3255-1045489/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Low Fat Сухой корм для собак мелких пород",
+          "id": 280
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-medium-sterilized-ultra-suhoj-korm-dlya-sterilizovannyh-sobak-srednih-porod-3-kg-2885-1040788/",
+          "status": "skipped",
+          "name": "Ownat Medium Sterilized Ultra Сухой корм для стерилизованных собак средних пород",
+          "id": 281
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-holistic-fresh-meat-suhoj-korm-bezzernovoj-dlya-shchenkov-vseh-porod-s-yagnenkom-i-indejkoj-2-kg-99162-1068559/",
+          "status": "failed",
+          "name": "АВВА Holistic Fresh Meat Сухой корм беззерновой для щенков всех пород, с ягненком и индейкой, 2 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-suhoj-korm-dlya-shchenkov-s-yagnenkom-i-lososem-2-7-kg-2807-1051886/",
+          "status": "failed",
+          "name": "Grandin Holistic Сухой корм для щенков, с ягненком и лососем, 2,7 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-care-dermatologic-suhoj-korm-dlya-sobak-vseh-porod-sklonnyh-k-dermatologicheskoj-chuvstvitelnosti-s-lososem-3-kg-2902-1053532/",
+          "status": "skipped",
+          "name": "Ownat Adult Care Dermatologic Сухой корм для собак всех пород склонных к дерматологической чувствительности, с лососем",
+          "id": 282
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-suhoj-korm-na-osnove-svezhego-myasa-dlya-vzroslyh-sobak-melkih-porod-s-yagnenkom-i-indejkoj-400-gr-94255-1065978/",
+          "status": "skipped",
+          "name": "АВВА Adult Сухой корм на основе свежего мяса для взрослых собак мелких пород, с ягненком и индейкой, 400 гр",
+          "id": 283
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-natural-ingredients-suhoj-korm-dlya-vzroslyh-sobak-krupnyh-porod-s-kuritsej-12-kg-2773-1042243/",
+          "status": "skipped",
+          "name": "АВВА Natural Ingredients Сухой корм для взрослых собак крупных пород, с курицей",
+          "id": 284
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-hypoallergenic-suhoj-dieticheskij-korm-dlya-sobak-gipoallergennyj-2-kg-3294-1043191/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Hypoallergenic Сухой диетический корм для собак, гипоаллергенный",
+          "id": 285
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-medium-maxi-suhoj-korm-dlya-sobak-srednih-i-krupnyh-porod-s-beloj-ryboj-10-kg-89622-1063068/",
+          "status": "loaded",
+          "id": 505,
+          "name": "GRANDORF Holistic Adult Medium Maxi Сухой корм для собак средних и крупных пород, с белой рыбой",
+          "species": "dog",
+          "weight_g": 10000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-mini-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-chetyre-vida-myasa-1-kg-2870-1040162/",
+          "status": "loaded",
+          "id": 506,
+          "name": "GRANDORF Holistic Adult Mini Сухой корм для взрослых собак мелких пород, четыре вида мяса",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-medium-adult-suhoj-korm-dlya-sobak-srednih-razmerov-v-vozraste-ot-12-mesyatsev-do-7-let-15-kg-2585-1001809/",
+          "status": "skipped",
+          "name": "Royal Canin Medium Adult Сухой корм для собак средних размеров в возрасте от 12 месяцев до 7 лет",
+          "id": 346
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-medium-adult-ultra-suhoj-korm-dlya-sobak-srednih-porod-s-yagnenkom-i-risom-3-kg-2891-1042260/",
+          "status": "skipped",
+          "name": "Ownat Medium Adult Ultra Сухой корм для собак средних пород, с ягненком и рисом",
+          "id": 347
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-holistic-fresh-meat-suhoj-korm-bezzernovoj-dlya-vzroslyh-sobak-vseh-porod-s-beloj-ryboj-3-kg-99164-1068561/",
+          "status": "skipped",
+          "name": "АВВА Holistic Fresh Meat Сухой корм беззерновой для взрослых собак всех пород, с белой рыбой",
+          "id": 348
+        },
+        {
+          "url": "https://4lapy.ru/product/dog-dog-wild-regional-ocean-suhoj-korm-dlya-sobak-s-sajroj-lososem-i-treskoj-2-kg-83801-1054007/",
+          "status": "skipped",
+          "name": "Dog & Dog Wild Regional Ocean Сухой корм для собак, с сайрой, лососем и треской",
+          "id": 349
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-suhoj-korm-dlya-shchenkov-vseh-porod-s-yagnenkom-i-indejkoj-1kg-2864-1040150/",
+          "status": "failed",
+          "name": "GRANDORF Сухой корм для щенков всех пород, с ягненком и индейкой, 1кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-gi25-suhoj-korm-dlya-sobak-pri-narushenii-pishchevareniya-2-kg-3235-1003527/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal GI25 Сухой корм для собак при нарушении пищеварения",
+          "id": 350
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-classic-monoproteic-suhoj-monoproteinovyj-korm-dlya-sobak-s-yagnenkom-12-kg-98744-1068275/",
+          "status": "skipped",
+          "name": "Ownat Classic Monoproteic Сухой монопротеиновый корм для собак, с ягненком",
+          "id": 351
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-natura-maxi-suhoj-korm-dlya-sobak-krupnyh-porod-s-yagnenkom-risom-i-bobami-2-5-kg-2971-1053814/",
+          "status": "skipped",
+          "name": "UNICA Natura Maxi Сухой корм для собак крупных пород, с ягненком, рисом и бобами",
+          "id": 352
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hypoallergenic-small-dog-suhoj-korm-dieticheskij-dlya-sobak-malyh-porod-vesom-menee-10-kg-s-pishchevoj-allergiej-1-kg-3237-1003973/",
+          "status": "skipped",
+          "name": "Royal Canin Hypoallergenic Small Dog Сухой корм диетический для собак малых пород весом менее с пищевой аллергией",
+          "id": 353
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-senior-suhoj-korm-na-osnove-svezhego-myasa-dlya-sobak-starshe-7-let-melkih-porod-s-indejkoj-400-gr-94257-1065982/",
+          "status": "skipped",
+          "name": "АВВА Senior Сухой корм на основе свежего мяса для собак старше 7 лет мелких пород, с индейкой, 400 гр",
+          "id": 354
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-natura-mono-all-breed-suhoj-korm-dlya-sobak-vseh-porod-s-forelyu-12-kg-2972-1053816/",
+          "status": "skipped",
+          "name": "UNICA Natura Mono All Breed Сухой корм для собак всех пород, с форелью",
+          "id": 355
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-nd-pumpkin-suhoj-korm-dlya-sobak-melkih-porod-s-yagnenkom-tykvoj-i-chernikoj-800-gr-2909-1043159/",
+          "status": "skipped",
+          "name": "Farmina ND Pumpkin Сухой корм для собак мелких пород, с ягненком, тыквой и черникой, 800 гр",
+          "id": 356
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-maxi-adult-26-suhoj-korm-dlya-sobak-krupnyh-razmerov-v-vozraste-ot-15-mesyatsev-do-5-let-15-kg-2578-1001304/",
+          "status": "skipped",
+          "name": "Royal Canin Maxi Adult 26 Сухой корм для собак крупных размеров в возрасте от 15 месяцев до 5 лет",
+          "id": 357
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-adult-monoprotein-suhoj-korm-dlya-sobak-srednih-i-krupnyh-porod-belaya-ryba-2-kg-86137-1060824/",
+          "status": "skipped",
+          "name": "AlphaPet Adult Monoprotein Сухой корм для собак средних и крупных пород, белая рыба",
+          "id": 358
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-mini-adult-monoprotein-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-yagnenkom-risom-i-kartofelem-800-gr-2832-1027886/",
+          "status": "skipped",
+          "name": "Monge Mini Adult Monoprotein Сухой корм для взрослых собак мелких пород, с ягненком, рисом и картофелем, 800 гр",
+          "id": 359
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-mini-adult-suhoj-korm-dlya-vzroslyh-sobak-melkih-razmerov-v-vozraste-ot-10-mesyatsev-do-8-let-2-kg-2595-1002774/",
+          "status": "skipped",
+          "name": "Royal Canin Mini Adult Сухой корм для взрослых собак мелких размеров в возрасте от 10 месяцев до 8 лет, 800 гр",
+          "id": 360
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-fresh-meat-suhoj-korm-dlya-sobak-melkih-porod-s-yagnenkom-1-5-kg-2804-1051882/",
+          "status": "skipped",
+          "name": "Grandin Сухой корм для взрослых собак мелких пород, с ягненком, 400 гр",
+          "id": 361
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-fresh-adult-mini-suhoj-korm-dlya-sobak-melkih-porod-s-yagnenkom-i-batatom-1-kg-90169-1063304/",
+          "status": "loaded",
+          "id": 507,
+          "name": "GRANDORF Fresh Adult Mini Сухой корм для собак мелких пород, с ягненком и бататом",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sensitive-digestion-suhoj-korm-dlya-vzroslyh-sobak-srednih-porod-s-chuvstvitelnym-pishchevareniem-s-vysokim-soderzhaniem-yagnenka-14-kg-2550-1009591/",
+          "status": "loaded",
+          "id": 508,
+          "name": "PRO PLAN Sensitive Digestion Сухой корм для взрослых собак средних пород с чувствительным пищеварением, с ягненком",
+          "species": "dog",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-grain-free-hypo-suhoj-korm-gipoallergennyj-dlya-sobak-melkih-porod-s-yagnenkom-1-kg-87307-1061426/",
+          "status": "skipped",
+          "name": "Ownat Grain Free Hypo Сухой корм гипоаллергенный для собак мелких пород, с ягненком",
+          "id": 364
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-suhoj-korm-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-12-kg-89531-1063003/",
+          "status": "skipped",
+          "name": "Grandin Сухой корм для взрослых собак всех пород, с ягненком",
+          "id": 365
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-medium-puppy-suhoj-korm-dlya-shchenkov-srednih-porod-ot-2-do-12-mesyatsev-3-kg-2624-1027284/",
+          "status": "failed",
+          "name": "Royal Canin Medium Puppy Сухой корм для щенков средних пород от 2 до 12 месяцев, 3 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-medium-maxi-suhoj-korm-dlya-sobak-srednih-i-krupnyh-porod-4-vida-myasa-s-probiotikami-1-kg-89624-1063073/",
+          "status": "loaded",
+          "id": 509,
+          "name": "GRANDORF Holistic Adult Medium Maxi Сухой корм для собак средних и крупных пород, 4 вида мяса с пробиотиками",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-intestinal-ultracare-low-fat-suhoj-dieticheskij-korm-dlya-sobak-pri-zabolevaniyah-zhkt-s-ryboj-1-5-kg-100628-1069979/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Intestinal Ultracare Low Fat Сухой диетический корм для собак, при заболеваниях ЖКТ, с рыбой",
+          "id": 367
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-suhoj-korm-na-osnove-svezhego-myasa-dlya-vzroslyh-sobak-melkih-porod-s-utkoj-400-gr-94256-1065980/",
+          "status": "skipped",
+          "name": "АВВА Adult Сухой корм на основе свежего мяса для взрослых собак мелких пород, с уткой",
+          "id": 368
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-maxi-suhoj-korm-dlya-vzroslyh-sobak-krupnyh-porod-s-yagnenkom-i-indejkoj-3-kg-2868-1040158/",
+          "status": "loaded",
+          "id": 510,
+          "name": "GRANDORF Holistic Adult Maxi Сухой корм для взрослых собак крупных пород, с ягненком и индейкой",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-holistic-fresh-meat-suhoj-korm-bezzernovoj-monoproteinovyj-dlya-vzroslyh-sobak-melkih-porod-s-beloj-ryboj-400-gr-99160-1068557/",
+          "status": "skipped",
+          "name": "АВВА Holistic Fresh Meat Сухой корм беззерновой монопротеиновый для взрослых собак мелких пород, с белой рыбой, 400 гр",
+          "id": 370
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-adult-small-suhoj-korm-bezzernovoj-dlya-vzroslyh-sobak-melkih-porod-s-govyadinoj-350-gr-100719-1070064/",
+          "status": "skipped",
+          "name": "Grandin Holistic Health Privilege Adult Small Сухой корм беззерновой для взрослых собак мелких пород, с говядиной, 350 гр",
+          "id": 371
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-all-breeds-adult-monoprotein-suhoj-korm-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-risom-i-kartofelem-2-5-kg-2840-1027884/",
+          "status": "loaded",
+          "id": 511,
+          "name": "Monge All Breeds Adult Monoprotein Сухой корм для взрослых собак всех пород, с ягненком, рисом и картофелем",
+          "species": "dog",
+          "weight_g": 2500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hypoallergenic-suhoj-korm-dlya-vzroslyh-sobak-s-pishchevoj-allergiej-1-5-kg-95628-1066645/",
+          "status": "loaded",
+          "id": 512,
+          "name": "Royal Canin Hypoallergenic Сухой корм для взрослых собак с пищевой аллергией",
+          "species": "dog",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-adult-monoprotein-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-beloj-ryboj-1-5-kg-86136-1059963/",
+          "status": "loaded",
+          "id": 513,
+          "name": "AlphaPet Adult Monoprotein Сухой корм для взрослых собак мелких пород, с белой рыбой, 500 гр",
+          "species": "dog",
+          "weight_g": 500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-nd-pumpkin-suhoj-korm-dlya-sobak-srednih-i-krupnyh-porod-s-yagnenkom-tykvoj-i-chernikoj-2-5-kg-2910-1043162/",
+          "status": "loaded",
+          "id": 514,
+          "name": "Farmina ND Pumpkin Сухой корм для собак средних и крупных пород, с ягненком, тыквой и черникой",
+          "species": "dog",
+          "weight_g": 2500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-holistic-health-privilege-puppy-small-suhoj-korm-bezzernovoj-dlya-shchenkov-melkih-porod-s-yagnenkom-i-seldyu-350-gr-100717-1070062/",
+          "status": "failed",
+          "name": "Grandin Holistic Health Privilege Puppy Small Сухой корм беззерновой для щенков мелких пород, с ягненком и сельдью, 350 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-mini-adult-ultra-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-kuritsej-i-indejkoj-3-kg-2893-1044808/",
+          "status": "loaded",
+          "id": 515,
+          "name": "Ownat Mini Adult Ultra Сухой корм для взрослых собак мелких пород, с курицей и индейкой",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-junior-medium-maxi-suhoj-korm-dlya-yuniorov-srednih-i-krupnyh-porod-s-yagnenkom-i-indejkoj-3-kg-2865-1040152/",
+          "status": "failed",
+          "name": "GRANDORF Holistic Junior Medium Maxi Сухой корм для юниоров средних и крупных пород, с ягненком и индейкой, 1 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-mini-puppy-suhoj-korm-dlya-shchenkov-melkih-porod-v-vozraste-ot-2-do-10-mesyatsev-800-gr-2599-1005365/",
+          "status": "failed",
+          "name": "Royal Canin Mini Puppy Сухой корм для щенков мелких пород в возрасте от 2 до 10 месяцев, 800 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-vet-hypoallergenic-suhoj-korm-dieticheskij-dlya-sobak-s-pishchevoj-allergiej-ili-pishchevoj-neperenosimostyu-s-krolikom-1-kg-96792-1066954/",
+          "status": "loaded",
+          "id": 516,
+          "name": "GRANDORF Vet Hypoallergenic Сухой корм диетический для собак с пищевой аллергией или пищевой непереносимостью, с кроликом",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-classic-monoproteic-suhoj-monoproteinovyj-korm-dlya-sobak-s-lososem-12-kg-98746-1068277/",
+          "status": "loaded",
+          "id": 517,
+          "name": "Ownat Classic Monoproteic Сухой монопротеиновый корм для собак, с лососем",
+          "species": "dog",
+          "weight_g": 4000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-prime-mini-suhoj-korm-bezzernovoj-dlya-sobak-melkih-porod-s-kuritsej-i-indejkoj-1-kg-2895-1044813/",
+          "status": "loaded",
+          "id": 518,
+          "name": "Ownat Prime Mini Сухой корм беззерновой для собак мелких пород, с курицей и индейкой, 400 гр",
+          "species": "dog",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-nd-pumpkin-suhoj-korm-dlya-shchenkov-melkih-porod-s-yagnenkom-tykvoj-i-chernikoj-800-gr-2911-1043164/",
+          "status": "loaded",
+          "id": 519,
+          "name": "Farmina Farmina ND DOG GF PUMPKIN LAMB BLUEBERRY PUPPY MINI",
+          "species": "dog",
+          "weight_g": 7000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastro-intestinal-low-fat-lf22-suhoj-korm-dlya-sobak-pri-narushenii-pishchevareniya-1-5-kg-3239-1009201/",
+          "status": "loaded",
+          "id": 520,
+          "name": "Royal Canin Gastro Intestinal Low Fat LF22 Сухой корм для собак при нарушении пищеварения",
+          "species": "dog",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-small-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-yagnenkom-i-risom-1-5-kg-90865-1063620/",
+          "status": "loaded",
+          "id": 521,
+          "name": "АВВА Adult Small Сухой корм для взрослых собак мелких пород, с ягненком и рисом, 400 гр",
+          "species": "dog",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-care-digestive-suhoj-korm-dlya-sobak-vseh-porod-s-chuvstvitelnym-pishchevareniem-s-kuritsej-3-kg-2901-1053526/",
+          "status": "loaded",
+          "id": 522,
+          "name": "Ownat Adult Care digestive Сухой корм для собак всех пород с чувствительным пищеварением, с курицей",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/sirius-suhoj-korm-dlya-vzroslyh-sobak-s-govyadinoj-i-ovoshchami-2-kg-2964-1053765/",
+          "status": "loaded",
+          "id": 523,
+          "name": "Sirius Сухой корм для взрослых собак, с говядиной и овощами",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-medium-maxi-suhoj-korm-dlya-vzroslyh-sobak-srednih-i-krupnyh-porod-s-krolikom-i-indejkoj-1-kg-2869-1040160/",
+          "status": "loaded",
+          "id": 524,
+          "name": "GRANDORF Holistic Adult Medium Maxi Сухой корм для взрослых собак средних и крупных пород, с кроликом и индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-monoprotein-superpremium-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-indejkoj-500-gr-83745-1059958/",
+          "status": "loaded",
+          "id": 525,
+          "name": "AlphaPet Monoprotein Superpremium Сухой корм для взрослых собак мелких пород, с индейкой, 500 гр",
+          "species": "dog",
+          "weight_g": 500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-mini-puppy-and-junior-monoprotein-suhoj-korm-dlya-shchenkov-melkih-porod-s-yagnenkom-i-risom-2-5-kg-2811-1027885/",
+          "status": "failed",
+          "name": "Monge NS Speciality Line Mini Puppy Junior With Lamb And Rice Сухой корм для щенков мелких пород, с ягненком и рисом, 800 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sensitive-skin-suhoj-korm-dlya-vzroslyh-sobak-srednih-porod-s-chuvstvitelnoj-kozhej-s-vysokim-soderzhaniem-lososya-3-kg-87400-1000020/",
+          "status": "loaded",
+          "id": 526,
+          "name": "PRO PLAN Sensitive Skin Сухой корм для взрослых собак средних пород с чувствительной кожей, с высоким содержанием лосося",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-gemma-suhoj-korm-dlya-vzroslyh-sobak-srednih-porod-dlya-resheniya-problem-s-pishchevareniem-2-kg-2401-1058738/",
+          "status": "loaded",
+          "id": 527,
+          "name": "UNICA Gemma Сухой корм для взрослых собак средних пород для решения проблем с пищеварением",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-sensitive-digestion-suhoj-korm-dlya-vzroslyh-sobak-dlya-melkih-i-karlikovyh-porod-s-chuvstvitelnym-pishchevareniem-s-vysokim-soderzhaniem-yagnenka-3-kg-2554-1014376/",
+          "status": "loaded",
+          "id": 528,
+          "name": "PRO PLAN Sensitive Digestion Сухой корм для взрослых собак для мелких и карликовых пород с чувствительным пищеварением, с высоким содержанием ягненка, 700 гр",
+          "species": "dog",
+          "weight_g": 700,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/sirius-suhoj-korm-dlya-vzroslyh-sobak-myasnoj-ratsion-2-kg-2966-1053768/",
+          "status": "loaded",
+          "id": 529,
+          "name": "Sirius Сухой корм для взрослых собак, мясной рацион",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-natural-ingredients-suhoj-korm-dlya-shchenkov-krupnyh-porod-s-kuritsej-12-kg-2775-1042247/",
+          "status": "failed",
+          "name": "АВВА Natural Ingredients Сухой корм для щенков крупных пород, с курицей, 3 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/ownat-adult-grain-free-suhoj-korm-dlya-vzroslyh-sobak-s-kuritsej-3-kg-2883-1040783/",
+          "status": "loaded",
+          "id": 530,
+          "name": "Ownat Adult Grain Free Сухой корм для взрослых собак, с курицей",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-holistic-adult-mini-suhoj-korm-dlya-sobak-melkih-porod-s-indejkoj-1-kg-89618-1063060/",
+          "status": "loaded",
+          "id": 531,
+          "name": "GRANDORF Holistic Adult Mini Сухой корм для собак мелких пород, с индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-mini-adult-monoprotein-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-s-lososem-i-risom-800-gr-2831-1028333/",
+          "status": "loaded",
+          "id": 532,
+          "name": "Monge Mini Adult Monoprotein Сухой корм для взрослых собак мелких пород, с лососем и рисом, 800 гр",
+          "species": "dog",
+          "weight_g": 800,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-fresh-meat-suhoj-korm-dlya-sobak-krupnyh-i-gigantskih-porod-s-kuritsej-12-kg-89532-1063005/",
+          "status": "loaded",
+          "id": 533,
+          "name": "Grandin Fresh Meat Сухой корм для собак крупных и гигантских пород с курицей",
+          "species": "dog",
+          "weight_g": 3000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-urinary-s-o-lp18-suhoj-korm-dlya-sobak-pri-zabolevaniyah-distalnogo-otdela-mochevydelitelnoj-sistemy-2-kg-3234-1000387/",
+          "status": "loaded",
+          "id": 534,
+          "name": "Royal Canin Urinary S/O LP18 Сухой корм для собак при заболеваниях дистального отдела мочевыделительной системы",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-gemma-suhoj-korm-dlya-vzroslyh-sobak-srednih-porod-dlya-resheniya-problem-s-kozhej-i-sherstyu-2-kg-2400-1058737/",
+          "status": "loaded",
+          "id": 535,
+          "name": "UNICA Gemma Сухой корм для взрослых собак средних пород для решения проблем с кожей и шерстью",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-gastrointestinal-vlazhnyj-korm-konservy-dlya-sobak-pri-zabolevaniyah-zhkt-300-gr-3206-1043224/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Gastrointestinal Влажный корм (консервы) для собак при заболеваниях ЖКТ, 300 гр",
+          "id": 286
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-i-lnyanym-maslom-200-gr-2263-1050472/",
+          "status": "skipped",
+          "name": "Grandin Adult Влажный корм (консервы) для взрослых собак всех пород, с ягненком и льняным маслом, 200 гр",
+          "id": 372
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-govyadinoj-i-lnyanym-maslom-200-gr-2261-1050470/",
+          "status": "skipped",
+          "name": "Grandin Adult Влажный корм (консервы) для взрослых собак всех пород, с говядиной и льняным маслом, 200 гр",
+          "id": 373
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-hypoallergenic-vlazhnyj-korm-konservy-dlya-sobak-dlya-snizheniya-pishchevoj-allergii-s-utkoj-i-kartofelem-300-gr-3207-1043225/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Hypoallergenic Влажный корм (консервы) для собак для снижения пищевой аллергии, с уткой и картофелем, 300 гр",
+          "id": 374
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-myasnoj-delikates-s-naturalnoj-indejkoj-v-zhele-100-gr-2252-1016111/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак Мясной Деликатес, с натуральной индейкой в желе, 100 гр",
+          "id": 375
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-myasnoj-delikates-s-naturalnoj-telyatinoj-v-zhele-100-gr-2251-1016110/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак Мясной Деликатес, с натуральной телятиной в желе, 100 гр",
+          "id": 376
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastrointestinal-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-pri-rasstrojstvah-pishchevareniya-85-gr-101116-1070269/",
+          "status": "skipped",
+          "name": "Royal Canin Gastrointestinal Влажный корм (пауч) для взрослых собак при расстройствах пищеварения, 85 гр",
+          "id": 377
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-myasnoj-delikates-s-naturalnym-krolikom-v-zhele-100-gr-2253-1016112/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак Мясной Деликатес, с натуральным кроликом в желе, 100 гр",
+          "id": 378
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-puppy-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-indejkoj-i-lnyanym-maslom-200-gr-2264-1050473/",
+          "status": "failed",
+          "name": "Grandin Puppy Влажный корм (консервы) для щенков всех пород, с индейкой и льняным маслом, 200 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-mini-puppy-vlazhnyj-korm-pauch-dlya-shchenkov-melkih-porod-85-gr-89535-1063010/",
+          "status": "failed",
+          "name": "Royal Canin Mini Puppy Влажный корм (пауч) для щенков мелких пород, 85 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-indejkoj-i-yablokom-850-gr-89256-1054963/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с индейкой и яблоком, 400 гр",
+          "id": 379
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-shchenkov-myasnoj-delikates-s-naturalnoj-govyadinoj-v-zhele-100-gr-2247-1016104/",
+          "status": "failed",
+          "name": "Yummy Влажный корм (консервы) для щенков Мясной Деликатес, с натуральной говядиной в желе, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-govyadina-s-yagnenkom-i-golubikoj-850-gr-2148-1058674/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, говядина, с ягненком и голубикой, 850 гр",
+          "id": 380
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-myasnoj-delikates-s-naturalnym-serdtsem-i-pechenyu-v-zhele-100-gr-2250-1016109/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак Мясной Деликатес, с натуральным сердцем и печенью в желе, 100 гр",
+          "id": 381
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-kuritsej-i-lnyanym-maslom-200-gr-2262-1050471/",
+          "status": "skipped",
+          "name": "Grandin Adult Влажный корм (консервы) для взрослых собак всех пород, с курицей и льняным маслом, 200 гр",
+          "id": 382
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-hepatic-vlazhnyj-korm-konservy-dlya-sobak-pri-zabolevanie-pecheni-300-gr-89253-1062850/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Hepatic Влажный корм (консервы) для собак при заболевание печени, 300 гр",
+          "id": 383
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-fresh-vlazhnyj-korm-lamister-dlya-sobak-pashtet-iz-yagnenka-100-gr-2284-1027889/",
+          "status": "skipped",
+          "name": "Monge Fresh Влажный корм (ламистер) для собак, паштет из ягненка, 100 гр",
+          "id": 384
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-melkih-porod-s-govyadinoj-100-gr-89846-1054949/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак мелких пород, с говядиной, 100 гр",
+          "id": 385
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-myasnoj-delikates-s-naturalnymi-kurinymi-serdechkami-v-zhele-100-gr-2249-1016108/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак Мясной Деликатес, с натуральными куриными сердечками в желе, 100 гр",
+          "id": 386
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-shchenkov-myasnoj-delikates-s-naturalnym-yagnenkom-v-zhele-100-gr-2248-1016105/",
+          "status": "failed",
+          "name": "Yummy Влажный корм (консервы) для щенков Мясной Деликатес, с натуральным ягненком в желе, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-renal-vlazhnyj-korm-konservy-dlya-sobak-pri-pochechnoj-nedostatochnosti-300-gr-3208-1043227/",
+          "status": "skipped",
+          "name": "Farmina Vet Life Renal Влажный корм (консервы) для собак при почечной недостаточности, 300 гр",
+          "id": 387
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-srednih-i-krupnyh-porod-s-govyadinoj-i-serdtsem-750-gr-89848-1005193/",
+          "status": "skipped",
+          "name": "АВВА Влажный корм (консервы) для собак средних и крупных пород, с говядиной и сердцем, 750 гр",
+          "id": 388
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-melkih-porod-s-nezhnoj-telyatinoj-100-gr-89258-1054950/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак мелких пород, с нежной телятиной, 100 гр",
+          "id": 389
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-puppy-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-govyadinoj-240-gr-89267-1054956/",
+          "status": "failed",
+          "name": "АВВА Puppy Влажный корм (консервы) для щенков всех пород, с говядиной, 240 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-srednih-i-krupnyh-porod-s-govyadinoj-i-rubtsom-750-gr-89847-1011086/",
+          "status": "skipped",
+          "name": "АВВА Влажный корм (консервы) для собак средних и крупных пород, с говядиной и рубцом, 750 гр",
+          "id": 390
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-melkih-porod-s-indejkoj-100-gr-89973-1014347/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак мелких пород, с индейкой, 100 гр",
+          "id": 391
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-srednih-i-krupnyh-porod-s-govyadinoj-750-gr-2101-1005192/",
+          "status": "skipped",
+          "name": "АВВА Влажный корм (консервы) для собак всех пород, с говядиной, 410 гр",
+          "id": 392
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-govyadinoj-i-yablokom-150-gr-100586-1069931/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с говядиной и яблоком, 150 гр",
+          "id": 393
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-melkih-porod-s-govyadinoj-i-serdtsem-100-gr-89972-1011087/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак мелких пород, с говядиной и сердцем, 100 гр",
+          "id": 394
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-100-gr-2149-1054262/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с ягненком, 100 гр",
+          "id": 395
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-indejkoj-utkoj-i-yablokom-240-gr-89266-1054953/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с индейкой, уткой и яблоком, 240 гр",
+          "id": 396
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-nezhnoj-telyatinoj-i-utkoj-240-gr-89265-1054954/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с нежной телятиной и уткой, 240 гр",
+          "id": 397
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-tsyplenkom-i-tykvoj-400-gr-89257-1056496/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с цыпленком и тыквой, 400 гр",
+          "id": 398
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-melkih-porod-s-govyadinoj-i-indejkoj-100-gr-89971-1011088/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак мелких пород, с говядиной и индейкой, 100 гр",
+          "id": 399
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-fresh-vlazhnyj-korm-konservy-dlya-sobak-nezhnyj-pashtet-iz-govyadiny-100-gr-2285-1027890/",
+          "status": "skipped",
+          "name": "Monge Fresh Влажный корм (консервы) для собак, нежный паштет из говядины, 100 гр",
+          "id": 400
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-melkih-porod-s-yagnenkom-i-potroshkami-100-gr-88771-1011090/",
+          "status": "skipped",
+          "name": "Yummy Влажный корм (консервы) для собак мелких пород, с ягненком и потрошками, 100 гр",
+          "id": 401
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-s-risom-400-gr-2115-1050465/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с ягненком с рисом, 400 гр",
+          "id": 402
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-i-golubikoj-400-gr-2128-1054269/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с ягненком и голубикой, 400 гр",
+          "id": 403
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-srednih-i-krupnyh-porod-s-govyadinoj-i-baraninoj-750-gr-89849-1005194/",
+          "status": "skipped",
+          "name": "АВВА Влажный корм (консервы) для собак средних и крупных пород, с говядиной и бараниной, 750 гр",
+          "id": 404
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-shchenkov-s-telyatinoj-100-gr-2246-1011089/",
+          "status": "failed",
+          "name": "Yummy Влажный корм (консервы) для щенков, с телятиной, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-krolikom-s-risom-200-gr-2147-1050462/",
+          "status": "skipped",
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с кроликом с рисом, 200 гр",
+          "id": 405
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-fresh-vlazhnyj-korm-konservy-dlya-sobak-nezhnyj-pashtet-iz-utki-100-gr-2290-1028283/",
+          "status": "skipped",
+          "name": "Monge Fresh Влажный корм (консервы) для собак, нежный паштет из утки, 100 гр",
+          "id": 406
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-blister-dlya-sobak-s-chuvstvitelnym-pishchevareniem-s-krolikom-i-yablokom-v-souse-100-gr-2150-1056704/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм (блистер) для собак с чувствительным пищеварением, с кроликом и яблоком в соусе, 100 гр",
+          "id": 407
+        },
+        {
+          "url": "https://4lapy.ru/product/alphapet-r-vlazhnyj-korm-dlya-sobak-s-chuvstvitelnym-pishchevareniem-s-telyatinoj-i-tykvoj-v-souse-100-gr-2151-1056705/",
+          "status": "skipped",
+          "name": "AlphaPet Влажный корм для собак с чувствительным пищеварением, с телятиной и тыквой в соусе, 100 гр",
+          "id": 408
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-puppy-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-tsyplenkom-i-indejkoj-240-gr-2135-1054957/",
+          "status": "failed",
+          "name": "АВВА Puppy Влажный корм (консервы) для щенков всех пород, с цыпленком и индейкой, 240 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-yagnenkom-i-abrikosom-150-gr-100587-1069932/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с ягненком и абрикосом, 150 гр",
+          "id": 409
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-golden-line-vlazhnyj-korm-konservy-dlya-sobak-s-govyadinoj-340-gr-2178-1005283/",
+          "status": "skipped",
+          "name": "Четвероногий Гурман Golden Line Влажный корм (консервы) для собак, с говядиной, 100 гр",
+          "id": 410
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-indejkoj-utkoj-i-yablokom-150-gr-100589-1069934/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с индейкой, уткой и яблоком, 150 гр",
+          "id": 411
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-vseh-porod-s-potroshkami-410-gr-89851-1005633/",
+          "status": "skipped",
+          "name": "АВВА Влажный корм (консервы) для собак всех пород, с потрошками, 410 гр",
+          "id": 412
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-lososem-tuntsom-i-morkovyu-150-gr-100590-1069935/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с лососем, тунцом и морковью, 150 гр",
+          "id": 413
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-medium-adult-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-srednih-porod-100-gr-101115-1070270/",
+          "status": "skipped",
+          "name": "Royal Canin Medium Adult Влажный корм (пауч) для взрослых собак средних пород, 100 гр",
+          "id": 414
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-indejkoj-i-grushej-150-gr-100588-1069933/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с индейкой и грушей, 150 гр",
+          "id": 415
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-golden-line-vlazhnyj-korm-konservy-dlya-sobak-s-krolikom-100-gr-84673-1008036/",
+          "status": "skipped",
+          "name": "Четвероногий Гурман Golden Line Влажный корм (консервы) для собак, с кроликом, 100 гр",
+          "id": 416
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-govyadinoj-410-gr-2102-1005634/",
+          "status": "failed",
+          "name": "АВВА Влажный корм (консервы) для щенков всех пород, с говядиной, 410 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/grandin-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-vseh-porod-s-tsyplenkom-i-tykvoj-150-gr-100591-1069936/",
+          "status": "skipped",
+          "name": "Grandin Влажный корм (пауч) для взрослых собак всех пород, с цыпленком и тыквой, 150 гр",
+          "id": 417
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-mini-adult-vlazhnyj-korm-pauch-dlya-sobak-melkih-porod-85-gr-89534-1063009/",
+          "status": "loaded",
+          "id": 536,
+          "name": "Royal Canin Mini Adult Влажный корм (пауч) для собак мелких пород, 85 гр",
+          "species": "dog",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-kolbasa-dlya-sobak-myasnoj-delikates-s-rubtsom-500-gr-2255-1046377/",
+          "status": "loaded",
+          "id": 537,
+          "name": "Yummy Колбаса для собак Мясной деликатес с рубцом, 500 гр",
+          "species": "dog",
+          "weight_g": 500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-tsyplenkom-s-syrom-400-gr-2116-1050466/",
+          "status": "loaded",
+          "id": 538,
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с цыпленком с сыром, 400 гр",
+          "species": "dog",
+          "weight_g": 400,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-golden-line-vlazhnyj-korm-konservy-dlya-sobak-s-indejkoj-340-gr-2181-1005561/",
+          "status": "loaded",
+          "id": 539,
+          "name": "Четвероногий Гурман Golden Line Влажный корм (консервы) для собак, с индейкой, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/dr-alders-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-rublenoe-myaso-govyadina-750-gr-2195-1016851/",
+          "status": "loaded",
+          "id": 540,
+          "name": "Dr. Alder's Влажный корм (консервы) для взрослых собак, рубленое мясо говядина, 750 гр",
+          "species": "dog",
+          "weight_g": 750,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-pauch-dlya-sobak-vseh-porod-s-kuritsej-bonito-i-ovoshchami-v-souse-100-gr-94910-1066407/",
+          "status": "loaded",
+          "id": 541,
+          "name": "АВВА Влажный корм (пауч) для собак всех пород, с курицей, бонито и овощами в соусе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/berkley-vlazhnyj-korm-konservy-dlya-sobak-s-yagnenkom-i-risom-200-gr-89979-1051263/",
+          "status": "loaded",
+          "id": 542,
+          "name": "Berkley Влажный корм (консервы) для собак, с ягненком и рисом, 200 гр",
+          "species": "dog",
+          "weight_g": 200,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-vseh-porod-s-tsyplenkom-i-tykvoj-240-gr-89264-1054955/",
+          "status": "loaded",
+          "id": 543,
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак всех пород, с цыпленком и тыквой, 240 гр",
+          "species": "dog",
+          "weight_g": 240,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-golden-line-vlazhnyj-korm-konservy-dlya-sobak-s-yagnyatinoj-340-gr-2179-1005285/",
+          "status": "loaded",
+          "id": 544,
+          "name": "Четвероногий Гурман Golden Line Влажный корм (консервы) для собак, с ягнятиной, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-vseh-porod-s-ptitsej-410-gr-89850-1005632/",
+          "status": "loaded",
+          "id": 545,
+          "name": "АВВА Влажный корм (консервы) для собак всех пород, с птицей, 410 гр",
+          "species": "dog",
+          "weight_g": 410,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/dr-alders-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-rublenoe-myaso-yagnenok-750-gr-89593-1016854/",
+          "status": "loaded",
+          "id": 546,
+          "name": "Dr. Alder's Влажный корм (консервы) для взрослых собак, рубленое мясо ягненок, 750 гр",
+          "species": "dog",
+          "weight_g": 750,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-vlazhnyj-korm-pauch-dlya-shchenkov-srednih-porod-v-vozraste-do-12-mesyatsev-100-gr-100796-1070147/",
+          "status": "failed",
+          "name": "Royal Canin Влажный корм (пауч) для щенков средних пород в возрасте до 12 месяцев, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-kolbasa-dlya-sobak-myasnoj-delikates-s-pechenyu-500-gr-93844-1046376/",
+          "status": "loaded",
+          "id": 547,
+          "name": "Yummy Колбаса для собак Мясной деликатес с печенью, 500 гр",
+          "species": "dog",
+          "weight_g": 500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-platinum-line-vlazhnyj-korm-konservy-dlya-sobak-serdtse-i-pechen-v-zhele-240-gr-89837-1005556/",
+          "status": "loaded",
+          "id": 548,
+          "name": "Четвероногий Гурман Platinum Line Влажный корм (консервы) для собак, сердце и печень в желе, 240 гр",
+          "species": "dog",
+          "weight_g": 240,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-melkih-i-karlikovyh-porod-s-govyadinoj-v-souse-85-gr-2339-1047004/",
+          "status": "loaded",
+          "id": 549,
+          "name": "PRO PLAN Влажный корм (пауч) для взрослых собак мелких и карликовых пород, с говядиной в соусе, 85 гр",
+          "species": "dog",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-melkih-porod-s-krolikom-s-ovoshchami-100-gr-2108-1050458/",
+          "status": "loaded",
+          "id": 550,
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак мелких пород, с кроликом с овощами, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-platinum-line-vlazhnyj-korm-konservy-dlya-sobak-vseh-porod-serdechki-kurinye-v-zhele-240-gr-89836-1005555/",
+          "status": "loaded",
+          "id": 551,
+          "name": "Четвероногий Гурман Platinum Line Влажный корм (консервы) для собак всех пород, сердечки куриные в желе, 240 гр",
+          "species": "dog",
+          "weight_g": 240,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-puppy-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-yagnenkom-i-risom-100-gr-94324-1054263/",
+          "status": "failed",
+          "name": "АВВА Puppy Влажный корм (консервы) для щенков всех пород, с ягненком и рисом, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-pauch-dlya-sobak-vseh-porod-s-kuritsej-kurinoj-pechenyu-i-ovoshchami-v-souse-100-gr-94909-1066406/",
+          "status": "loaded",
+          "id": 552,
+          "name": "АВВА Влажный корм (пауч) для собак всех пород, с курицей, куриной печенью и овощами в соусе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/berkley-vlazhnyj-korm-konservy-dlya-sobak-s-govyadinoj-i-risom-200-gr-89983-1051262/",
+          "status": "loaded",
+          "id": 553,
+          "name": "Berkley Влажный корм (консервы) для собак, с говядиной и рисом, 200 гр",
+          "species": "dog",
+          "weight_g": 200,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/pro-plan-r-vlazhnyj-korm-pauch-dlya-vzroslyh-sobak-melkih-i-karlikovyh-porod-s-chuvstvitelnoj-kozhej-s-lososem-v-souse-85-gr-2343-1047043/",
+          "status": "loaded",
+          "id": 554,
+          "name": "PRO PLAN Влажный корм (пауч) для взрослых собак мелких и карликовых пород с чувствительной кожей, с лососем в соусе, 85 гр",
+          "species": "dog",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-vlazhnyj-korm-konservy-dlya-sobak-rybnyj-delikates-s-lososem-v-zhele-100-gr-100645-1069994/",
+          "status": "loaded",
+          "id": 555,
+          "name": "Yummy Влажный корм (консервы) для собак Рыбный Деликатес, с лососем в желе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/yummy-kolbasa-dlya-sobak-myasnoj-delikates-s-krolikom-indejkoj-i-kabachkom-200-gr-93367-1065096/",
+          "status": "loaded",
+          "id": 556,
+          "name": "Yummy Колбаса для собак Мясной Деликатес, с кроликом, индейкой и кабачком, 200 гр",
+          "species": "dog",
+          "weight_g": 200,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-puppy-vlazhnyj-korm-konservy-dlya-shchenkov-vseh-porod-s-tsyplenkom-i-indejkoj-100-gr-2133-1054951/",
+          "status": "failed",
+          "name": "АВВА Puppy Влажный корм (консервы) для щенков всех пород, с цыпленком и индейкой, 100 гр."
+        },
+        {
+          "url": "https://4lapy.ru/product/berkley-vlazhnyj-korm-konservy-dlya-sobak-s-krolikom-100-gr-2159-1051261/",
+          "status": "loaded",
+          "id": 557,
+          "name": "Berkley Влажный корм (консервы) для собак, с кроликом, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-mini-ageing-12-vlazhnyj-korm-pauch-dlya-sobak-melkih-razmerov-starshe-12-let-kusochki-v-souse-85-gr-94704-1066275/",
+          "status": "loaded",
+          "id": 558,
+          "name": "Royal Canin Mini Ageing 12+ Влажный корм (пауч) для собак мелких размеров старше 12 лет, кусочки в соусе, 85 гр",
+          "species": "dog",
+          "weight_g": 85,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/chetveronogij-gurman-golden-line-vlazhnyj-korm-konservy-dlya-sobak-s-utkoj-100-gr-93216-1064947/",
+          "status": "loaded",
+          "id": 559,
+          "name": "Четвероногий Гурман Golden line Влажный корм (консервы) для собак, с уткой, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/berkley-vlazhnyj-korm-konservy-dlya-sobak-s-koninoj-100-gr-89987-1051259/",
+          "status": "loaded",
+          "id": 560,
+          "name": "Berkley Влажный корм (консервы) для собак, с кониной, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-convalescence-vlazhnyj-korm-konservy-dlya-sobak-v-period-vosstanovleniya-i-vyzdorovleniya-300-gr-3209-1046542/",
+          "status": "loaded",
+          "id": 561,
+          "name": "Farmina Vet Life Convalescence Влажный корм (консервы) для собак в период восстановления и выздоровления, 300 гр",
+          "species": "dog",
+          "weight_g": 300,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-pauch-dlya-sobak-vseh-porod-s-utkoj-utinoj-pechenyu-i-ovoshchami-v-souse-100-gr-94911-1066408/",
+          "status": "loaded",
+          "id": 562,
+          "name": "АВВА Влажный корм (пауч) для собак всех пород, с уткой, утиной печенью и овощами в соусе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-konservy-dlya-sobak-melkih-porod-s-kusochkami-yagnenka-v-zhele-100-gr-94690-1016264/",
+          "status": "loaded",
+          "id": 563,
+          "name": "АВВА Влажный корм (консервы) для собак мелких пород, с кусочками ягненка в желе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/monge-monoprotein-vlazhnyj-korm-konservy-dlya-sobak-pashtet-s-indejkoj-150-gr-2301-1028314/",
+          "status": "loaded",
+          "id": 564,
+          "name": "Monge Monoprotein Влажный корм (консервы) для собак, паштет с индейкой, 150 гр",
+          "species": "dog",
+          "weight_g": 150,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-adult-vlazhnyj-korm-konservy-dlya-vzroslyh-sobak-melkih-porod-s-indejkoj-s-risom-100-gr-2109-1050459/",
+          "status": "loaded",
+          "id": 565,
+          "name": "АВВА Adult Влажный корм (консервы) для взрослых собак мелких пород, с индейкой с рисом, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/avva-vlazhnyj-korm-pauch-dlya-sobak-vseh-porod-s-utkoj-kuritsej-tuntsom-i-ovoshchami-v-souse-100-gr-94912-1066409/",
+          "status": "loaded",
+          "id": 566,
+          "name": "АВВА Влажный корм (пауч) для собак всех пород, с уткой, курицей, тунцом и овощами в соусе, 100 гр",
+          "species": "dog",
+          "weight_g": 100,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/berkley-vlazhnyj-korm-konservy-dlya-sobak-s-indejkoj-i-grushej-200-gr-89984-1051264/",
+          "status": "loaded",
+          "id": 567,
+          "name": "Berkley Влажный корм (консервы) для собак, с индейкой и грушей, 200 гр",
+          "species": "dog",
+          "weight_g": 200,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-gastro-intestinal-junior-gij29-suhoj-korm-dlya-shchenkov-do-1-goda-pri-narusheniyah-pishchevareniya-1-kg-3244-1016427/",
+          "status": "failed",
+          "name": "Royal Canin Gastro Intestinal Junior GIJ29 Сухой корм для щенков до 1 года при нарушениях пищеварения, 1 кг"
+        },
+        {
+          "url": "https://4lapy.ru/product/farmina-vet-life-dog-struvite-suhoj-dieticheskij-korm-dlya-sobak-pri-mochekamennoj-bolezni-dlya-podavleniya-obrazovaniya-i-rastvoreniya-struvitnyh-urolitov-2-kg-3291-1043188/",
+          "status": "loaded",
+          "id": 568,
+          "name": "Farmina Vet Life Dog Struvite Сухой диетический корм для собак при мочекаменной болезни для подавления образования и растворения струвитных уролитов",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-hepatic-hf16-suhoj-dieticheskij-korm-dlya-sobak-pri-zabolevaniyah-pecheni-1-5-kg-3230-1000378/",
+          "status": "loaded",
+          "id": 569,
+          "name": "Royal Canin Hepatic HF16 Сухой диетический корм для собак при заболеваниях печени",
+          "species": "dog",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-gemma-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-dlya-resheniya-problem-s-pishchevareniem-800-gr-2399-1058736/",
+          "status": "loaded",
+          "id": 570,
+          "name": "UNICA Gemma Сухой корм для взрослых собак мелких пород для решения проблем с пищеварением, 800 гр",
+          "species": "dog",
+          "weight_g": 800,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-vet-gastrointestinal-low-fat-suhoj-korm-dieticheskij-dlya-sobak-pri-rasstrojstvah-pishchevareniya-i-narushenii-lipidnogo-obmena-s-indejkoj-1-kg-96790-1066952/",
+          "status": "loaded",
+          "id": 571,
+          "name": "GRANDORF Vet Gastrointestinal Low Fat Сухой корм диетический для собак при расстройствах пищеварения и нарушении липидного обмена, с индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/grandorf-vet-gastrointestinal-suhoj-korm-dieticheskij-dlya-sobak-pri-rasstrojstvah-pishchevareniya-s-indejkoj-1-kg-96788-1066950/",
+          "status": "loaded",
+          "id": 572,
+          "name": "GRANDORF Vet Gastrointestinal Сухой корм диетический для собак при расстройствах пищеварения, с индейкой",
+          "species": "dog",
+          "weight_g": 1000,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/unica-gemma-suhoj-korm-dlya-vzroslyh-sobak-melkih-porod-dlya-resheniya-problem-s-kozhej-i-sherstyu-800-gr-6-1058789/",
+          "status": "loaded",
+          "id": 573,
+          "name": "UNICA Gemma Сухой корм для взрослых собак мелких пород для решения проблем с кожей и шерстью, 800 гр",
+          "species": "dog",
+          "weight_g": 800,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-sensitivity-control-sc21-suhoj-korm-dlya-sobak-pri-pishchevoj-allergii-ili-neperenosimosti-1-5-kg-3233-1008082/",
+          "status": "loaded",
+          "id": 574,
+          "name": "Royal Canin Sensitivity Control SC21 Сухой корм для собак при пищевой аллергии или непереносимости",
+          "species": "dog",
+          "weight_g": 1500,
+          "nutrients": 0,
+          "certificates": 0
+        },
+        {
+          "url": "https://4lapy.ru/product/royal-canin-renal-rf14-suhoj-korm-dlya-sobak-pri-pochechnoj-nedostatochnosti-14-kg-3232-1000382/",
+          "status": "loaded",
+          "id": 575,
+          "name": "Royal Canin Renal RF14 Сухой корм для собак при почечной недостаточности",
+          "species": "dog",
+          "weight_g": 2000,
+          "nutrients": 0,
+          "certificates": 0
+        }
+      ],
+      "certificates": 0
+    }
+  ],
+  "totals": {
+    "discovered": 513,
+    "fetched": 513,
+    "loaded": 158,
+    "skipped": 334,
+    "failed": 21,
+    "nutrients": 0,
+    "certificates": 0
+  },
+  "finished_at": "2026-11-21T10:42:50.948Z"
+}
