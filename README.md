@@ -1,5 +1,24 @@
 # PetData — две справочные базы и API
 
+## Демо
+
+| Что | Ссылка |
+|---|---|
+| Статический отчёт (фильтры, породы, сертификаты) | https://glob29.github.io/petdata-demo/ |
+| Исходный код | https://github.com/Glob29/petdata-demo |
+| Живой сервер с телефона в домашней сети | http://korma.local:8790/ или http://192.168.2.58:8790/ |
+
+Публичная ссылка на живой сервер через туннель (временная, пока запущен cloudflared):
+
+```bash
+tools/cloudflared.exe tunnel --url http://127.0.0.1:8790 --no-autoupdate
+```
+
+Бинарник cloudflared не хранится в репозитории: скачайте его с
+https://github.com/cloudflare/cloudflared/releases и положите в `tools/`.
+
+---
+
 Демо-прототип коммерческого data-продукта:
 
 1. **Nutrition DB** — корма, состав, нутриенты, упаковки, провенанс.
