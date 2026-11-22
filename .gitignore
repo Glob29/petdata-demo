@@ -3,16 +3,20 @@ agent/cache/
 backup/
 
 # Отчёт генерируется скриптом: node agent/export-html.js
+# (копия для GitHub Pages лежит в ветке gh-pages)
 report/
 
-# Служебные файлы SQLite
+# Данные: база живёт на сервере в томе ./data, в git её нет
+data/
+db/*.db
 db/*.db-wal
 db/*.db-shm
+
+# Бинарник туннеля скачивается отдельно
+tools/
 
 # Логи и локальное окружение
 *.log
 node_modules/
 .env
 .DS_Store
-
-tools/

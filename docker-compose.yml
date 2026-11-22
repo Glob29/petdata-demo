@@ -1,0 +1,41 @@
+# PetData на VPS: код в образе, база — в томе ./data
+services:
+  petdata:
+    build: .
+    image: petdata:latest
+    container_name: petdata
+    restart: unless-stopped
+    ports:
+      - "8790:8790"   # UI (браузер)
+      - "8787:8787"   # JSON API (можно не публиковать наружу)
+    volumes:
+      - ./data:/data
+    environment:
+      PETDATA_DB: /data/petdata.db
+      PETDATA_UI_HOST: 0.0.0.0
+      PETDATA_UI_PORT: "8790"
+      PETDATA_API_HOST: 0.0.0.0
+      PETDATA_PORT: "8787"
+      PETDATA_MDNS: "off"          # в контейнере mDNS/LLMNR не нужны
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:8790/').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+  # HTTPS и домен. Включать, если есть DNS-имя, указывающее на VPS.
+  # caddy:
+  #   image: caddy:2-alpine
+  #   restart: unless-stopped
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./deploy/Caddyfile:/etc/caddy/Caddyfile:ro
+  #     - caddy_data:/data
+  #     - caddy_config:/config
+  #
+  # volumes:
+  #   caddy_data:
+  #   caddy_config:

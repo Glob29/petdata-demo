@@ -870,8 +870,10 @@ module.exports = { createServer, db };
 
 if (require.main === module) {
   const port = Number.parseInt(process.env.PETDATA_PORT || '8787', 10);
-  createServer().listen(port, '127.0.0.1', () => {
-    console.log(`PetData API: http://127.0.0.1:${port}/v1/health`);
+  // В контейнере слушаем все интерфейсы, локально по умолчанию — только петля.
+  const host = process.env.PETDATA_API_HOST || '127.0.0.1';
+  createServer().listen(port, host, () => {
+    console.log(`PetData API: http://${host}:${port}/v1/health`);
     console.log(`DB: ${DB_PATH}`);
   });
 }
