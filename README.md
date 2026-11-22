@@ -28,6 +28,25 @@ API отдаёт обе базы в JSON. В демо — 499 SKU (7 seed + 492 
 
 ---
 
+## Деплой на VPS
+
+Данные намеренно **не хранятся в git**: в репозитории только код, схема и скрипты.
+База живёт на сервере в томе `./data` и монтируется в контейнер как `/data/petdata.db`.
+
+```bash
+# локально: подготовить файл базы (схлопывает WAL)
+node scripts/export-db.js
+
+# на VPS: поднять код и базу
+scp data/petdata.db root@IP:/opt/petdata/data/petdata.db
+docker compose up -d --build
+```
+
+UI: `http://IP:8790/`, API: `http://IP:8787/v1/health`.
+Подробно — [docs/deploy-vps-ru.md](docs/deploy-vps-ru.md).
+
+---
+
 ## Быстрый старт
 
 ```bash
@@ -312,6 +331,7 @@ breed → breed_weight
 - [Породы: методика](docs/breeds-ru.md) — откуда данные, что проверено, что оценка.
 - [Проверка на 3 брендах](docs/validation-3-brands-ru.md) — цены, белок, полнота данных.
 - [OpenAPI](openapi.yaml).
+- [Деплой на VPS в Docker](docs/deploy-vps-ru.md) — образ, том с базой, домен и пароль.
 
 ---
 
